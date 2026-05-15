@@ -1,0 +1,8 @@
+repos:
+  - repo: local
+    hooks:
+      - id: python-compile
+        name: Compile Python files
+        entry: python -m py_compile
+        language: system
+        types: [python]

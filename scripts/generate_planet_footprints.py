@@ -292,6 +292,8 @@ def discover_items(
     catalog: CatalogEntry,
     *,
     max_items: int | None = None,
+    fetch_retries: int = 3,
+    fetch_timeout: int = 60,
 ) -> tuple[list[ItemLink], list[dict[str, Any]], list[CollectionContext]]:
     pending = [catalog.href]
     visited_catalogs: set[str] = set()
@@ -306,7 +308,7 @@ def discover_items(
             continue
         visited_catalogs.add(url)
 
-        document = fetch_json(url)
+        document = fetch_json(url, retries=fetch_retries, timeout=fetch_timeout)
         document_type = document.get("type")
 
         if document_type == "Feature":
@@ -366,9 +368,14 @@ def discover_items(
 
 
 def fetch_item_feature(
-    item_link: ItemLink, catalog: CatalogEntry
+    item_link: ItemLink,
+    catalog: CatalogEntry,
+    fetch_retries: int = 3,
+    fetch_timeout: int = 60,
 ) -> dict[str, Any] | None:
-    item = fetch_json(item_link.href)
+    item = fetch_json(
+        item_link.href, retries=fetch_retries, timeout=fetch_timeout
+    )
     if item.get("type") == "FeatureCollection":
         features = item.get("features") or []
         if not features:
@@ -447,7 +454,9 @@ def prune_previous_outputs(output_dir: Path) -> None:
 
 def generate(args: argparse.Namespace) -> None:
     output_dir = Path(args.output_dir)
-    root = fetch_json(args.catalog_url)
+    root = fetch_json(
+        args.catalog_url, retries=args.fetch_retries, timeout=args.fetch_timeout
+    )
     catalogs = root_children(root, args.catalog_url)
     if args.only_catalog:
         only = {slugify(value) for value in args.only_catalog}
@@ -477,26 +486,46 @@ def generate(args: argparse.Namespace) -> None:
         item_links, embedded_features, collections = discover_items(
             catalog,
             max_items=args.max_items,
+            fetch_retries=args.fetch_retries,
+            fetch_timeout=args.fetch_timeout,
         )
         log(f"Fetching {len(item_links)} linked items for {catalog.slug}")
 
         features = list(embedded_features)
+        skipped = 0
         with concurrent.futures.ThreadPoolExecutor(
             max_workers=args.workers
         ) as executor:
             future_to_link = {
-                executor.submit(fetch_item_feature, item_link, catalog): item_link
+                executor.submit(
+                    fetch_item_feature,
+                    item_link,
+                    catalog,
+                    args.fetch_retries,
+                    args.fetch_timeout,
+                ): item_link
                 for item_link in item_links
             }
-            for future in concurrent.futures.as_completed(future_to_link):
+            for completed, future in enumerate(
+                concurrent.futures.as_completed(future_to_link), start=1
+            ):
                 item_link = future_to_link[future]
                 try:
                     feature = future.result()
                 except Exception as error:  # noqa: BLE001
+                    skipped += 1
                     log(f"Warning: skipped {item_link.href}: {error}")
-                    continue
+                    feature = None
                 if feature:
                     features.append(feature)
+                if args.progress_interval and (
+                    completed == len(item_links)
+                    or completed % args.progress_interval == 0
+                ):
+                    log(
+                        f"Fetched {completed}/{len(item_links)} linked items "
+                        f"for {catalog.slug}; skipped {skipped}"
+                    )
 
         features.sort(key=lambda feature: str(feature.get("id") or ""))
         catalog_dir = output_dir / catalog.slug
@@ -601,6 +630,9 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--catalog-url", default=DEFAULT_CATALOG_URL)
     parser.add_argument("--output-dir", default="data")
     parser.add_argument("--workers", type=int, default=16)
+    parser.add_argument("--fetch-retries", type=int, default=3)
+    parser.add_argument("--fetch-timeout", type=int, default=60)
+    parser.add_argument("--progress-interval", type=int, default=250)
     parser.add_argument("--min-zoom", type=int, default=0)
     parser.add_argument("--max-zoom", type=int, default=8)
     parser.add_argument("--summary-max-zoom", type=int, default=1)
