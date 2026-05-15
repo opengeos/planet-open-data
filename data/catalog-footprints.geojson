@@ -1,0 +1,335 @@
+{
+  "type": "FeatureCollection",
+  "name": "planet-open-data-catalog-footprints",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "open-skysat-data",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -122.4918282,
+              -23.04304972368468
+            ],
+            [
+              172.95515019320533,
+              -23.04304972368468
+            ],
+            [
+              172.95515019320533,
+              37.91179404951477
+            ],
+            [
+              -122.4918282,
+              37.91179404951477
+            ],
+            [
+              -122.4918282,
+              -23.04304972368468
+            ]
+          ]
+        ]
+      },
+      "bbox": [
+        -122.4918282,
+        -23.04304972368468,
+        172.95515019320533,
+        37.91179404951477
+      ],
+      "properties": {
+        "id": "open-skysat-data",
+        "title": "Open SkySat Data",
+        "slug": "open-skysat-data",
+        "href": "https://www.planet.com/data/stac/open-skysat-data/collection.json",
+        "item_count": 36,
+        "collection_count": 5,
+        "geojson": "data/open-skysat-data/footprints.geojson",
+        "pmtiles": "data/open-skysat-data/footprints.pmtiles"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "open-canada",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.34869931503664,
+              57.03001159556063
+            ],
+            [
+              -111.49254112341502,
+              57.03001159556063
+            ],
+            [
+              -111.49254112341502,
+              57.66563706722706
+            ],
+            [
+              -112.34869931503664,
+              57.66563706722706
+            ],
+            [
+              -112.34869931503664,
+              57.03001159556063
+            ]
+          ]
+        ]
+      },
+      "bbox": [
+        -112.34869931503664,
+        57.03001159556063,
+        -111.49254112341502,
+        57.66563706722706
+      ],
+      "properties": {
+        "id": "open-canada",
+        "title": "Open Canada",
+        "slug": "open-canada",
+        "href": "https://www.planet.com/data/stac/open-canada/catalog.json",
+        "item_count": 6635,
+        "collection_count": 9,
+        "geojson": "data/open-canada/footprints.geojson",
+        "pmtiles": "data/open-canada/footprints.pmtiles"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "planet-disaster-data-small-sample",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -96.04001623809913,
+              28.872261720487128
+            ],
+            [
+              -93.79920959472656,
+              28.872261720487128
+            ],
+            [
+              -93.79920959472656,
+              30.157560439570304
+            ],
+            [
+              -96.04001623809913,
+              30.157560439570304
+            ],
+            [
+              -96.04001623809913,
+              28.872261720487128
+            ]
+          ]
+        ]
+      },
+      "bbox": [
+        -96.04001623809913,
+        28.872261720487128,
+        -93.79920959472656,
+        30.157560439570304
+      ],
+      "properties": {
+        "id": "disasters",
+        "title": "Planet Disaster Data (small sample)",
+        "slug": "planet-disaster-data-small-sample",
+        "href": "https://www.planet.com/data/stac/disasters/collection.json",
+        "item_count": 5,
+        "collection_count": 1,
+        "geojson": "data/planet-disaster-data-small-sample/footprints.geojson",
+        "pmtiles": "data/planet-disaster-data-small-sample/footprints.pmtiles"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "spacenet-7-data-labels",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -121.6845703125,
+              -37.54457732085098
+            ],
+            [
+              144.97558593749386,
+              -37.54457732085098
+            ],
+            [
+              144.97558593749386,
+              52.48278022207822
+            ],
+            [
+              -121.6845703125,
+              52.48278022207822
+            ],
+            [
+              -121.6845703125,
+              -37.54457732085098
+            ]
+          ]
+        ]
+      },
+      "bbox": [
+        -121.6845703125,
+        -37.54457732085098,
+        144.97558593749386,
+        52.48278022207822
+      ],
+      "properties": {
+        "id": "spacenet7",
+        "title": "Spacenet 7 Data & Labels",
+        "slug": "spacenet-7-data-labels",
+        "href": "https://www.planet.com/data/stac/spacenet7/catalog.json",
+        "item_count": 3249,
+        "collection_count": 3,
+        "geojson": "data/spacenet-7-data-labels/footprints.geojson",
+        "pmtiles": "data/spacenet-7-data-labels/footprints.pmtiles"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "planet-fusion-data-2021-nebraska-sample",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -96.67882968595757,
+              40.729550990431605
+            ],
+            [
+              -96.38639437723049,
+              40.729550990431605
+            ],
+            [
+              -96.38639437723049,
+              40.95163952809489
+            ],
+            [
+              -96.67882968595757,
+              40.95163952809489
+            ],
+            [
+              -96.67882968595757,
+              40.729550990431605
+            ]
+          ]
+        ]
+      },
+      "bbox": [
+        -96.67882968595757,
+        40.729550990431605,
+        -96.38639437723049,
+        40.95163952809489
+      ],
+      "properties": {
+        "id": "29e-188n",
+        "title": "Planet Fusion Data (2021 Nebraska Sample)",
+        "slug": "planet-fusion-data-2021-nebraska-sample",
+        "href": "https://www.planet.com/data/stac/fusion/14N/29E-188N/collection.json",
+        "item_count": 365,
+        "collection_count": 1,
+        "geojson": "data/planet-fusion-data-2021-nebraska-sample/footprints.geojson",
+        "pmtiles": "data/planet-fusion-data-2021-nebraska-sample/footprints.pmtiles"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "planet-university-open-data",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.13243424079693,
+              -6.371981343881229
+            ],
+            [
+              36.94717773703839,
+              -6.371981343881229
+            ],
+            [
+              36.94717773703839,
+              52.414479
+            ],
+            [
+              -80.13243424079693,
+              52.414479
+            ],
+            [
+              -80.13243424079693,
+              -6.371981343881229
+            ]
+          ]
+        ]
+      },
+      "bbox": [
+        -80.13243424079693,
+        -6.371981343881229,
+        36.94717773703839,
+        52.414479
+      ],
+      "properties": {
+        "id": "education",
+        "title": "Planet University Open Data",
+        "slug": "planet-university-open-data",
+        "href": "https://www.planet.com/data/stac/education/catalog.json",
+        "item_count": 5,
+        "collection_count": 3,
+        "geojson": "data/planet-university-open-data/footprints.geojson",
+        "pmtiles": "data/planet-university-open-data/footprints.pmtiles"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "planet-tanager-sample-products",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -158.58874500600015,
+              -34.97993090173719
+            ],
+            [
+              165.12249253423218,
+              -34.97993090173719
+            ],
+            [
+              165.12249253423218,
+              76.06218747985285
+            ],
+            [
+              -158.58874500600015,
+              76.06218747985285
+            ],
+            [
+              -158.58874500600015,
+              -34.97993090173719
+            ]
+          ]
+        ]
+      },
+      "bbox": [
+        -158.58874500600015,
+        -34.97993090173719,
+        165.12249253423218,
+        76.06218747985285
+      ],
+      "properties": {
+        "id": "tanager-core-imagery",
+        "title": "Planet Tanager Sample Products",
+        "slug": "planet-tanager-sample-products",
+        "href": "https://www.planet.com/data/stac/tanager-core-imagery/catalog.json",
+        "item_count": 270,
+        "collection_count": 9,
+        "geojson": "data/planet-tanager-sample-products/footprints.geojson",
+        "pmtiles": "data/planet-tanager-sample-products/footprints.pmtiles"
+      }
+    }
+  ]
+}

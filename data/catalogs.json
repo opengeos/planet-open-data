@@ -1,0 +1,78 @@
+{
+  "source_catalog": "https://www.planet.com/data/stac/catalog.json",
+  "catalog_count": 7,
+  "summary_geojson": "data/catalog-footprints.geojson",
+  "summary_pmtiles": "data/catalog-footprints.pmtiles",
+  "catalogs": [
+    {
+      "id": "open-skysat-data",
+      "title": "Open SkySat Data",
+      "slug": "open-skysat-data",
+      "href": "https://www.planet.com/data/stac/open-skysat-data/collection.json",
+      "item_count": 36,
+      "collection_count": 5,
+      "geojson": "data/open-skysat-data/footprints.geojson",
+      "pmtiles": "data/open-skysat-data/footprints.pmtiles"
+    },
+    {
+      "id": "open-canada",
+      "title": "Open Canada",
+      "slug": "open-canada",
+      "href": "https://www.planet.com/data/stac/open-canada/catalog.json",
+      "item_count": 6635,
+      "collection_count": 9,
+      "geojson": "data/open-canada/footprints.geojson",
+      "pmtiles": "data/open-canada/footprints.pmtiles"
+    },
+    {
+      "id": "disasters",
+      "title": "Planet Disaster Data (small sample)",
+      "slug": "planet-disaster-data-small-sample",
+      "href": "https://www.planet.com/data/stac/disasters/collection.json",
+      "item_count": 5,
+      "collection_count": 1,
+      "geojson": "data/planet-disaster-data-small-sample/footprints.geojson",
+      "pmtiles": "data/planet-disaster-data-small-sample/footprints.pmtiles"
+    },
+    {
+      "id": "spacenet7",
+      "title": "Spacenet 7 Data & Labels",
+      "slug": "spacenet-7-data-labels",
+      "href": "https://www.planet.com/data/stac/spacenet7/catalog.json",
+      "item_count": 3249,
+      "collection_count": 3,
+      "geojson": "data/spacenet-7-data-labels/footprints.geojson",
+      "pmtiles": "data/spacenet-7-data-labels/footprints.pmtiles"
+    },
+    {
+      "id": "29e-188n",
+      "title": "Planet Fusion Data (2021 Nebraska Sample)",
+      "slug": "planet-fusion-data-2021-nebraska-sample",
+      "href": "https://www.planet.com/data/stac/fusion/14N/29E-188N/collection.json",
+      "item_count": 365,
+      "collection_count": 1,
+      "geojson": "data/planet-fusion-data-2021-nebraska-sample/footprints.geojson",
+      "pmtiles": "data/planet-fusion-data-2021-nebraska-sample/footprints.pmtiles"
+    },
+    {
+      "id": "education",
+      "title": "Planet University Open Data",
+      "slug": "planet-university-open-data",
+      "href": "https://www.planet.com/data/stac/education/catalog.json",
+      "item_count": 5,
+      "collection_count": 3,
+      "geojson": "data/planet-university-open-data/footprints.geojson",
+      "pmtiles": "data/planet-university-open-data/footprints.pmtiles"
+    },
+    {
+      "id": "tanager-core-imagery",
+      "title": "Planet Tanager Sample Products",
+      "slug": "planet-tanager-sample-products",
+      "href": "https://www.planet.com/data/stac/tanager-core-imagery/catalog.json",
+      "item_count": 270,
+      "collection_count": 9,
+      "geojson": "data/planet-tanager-sample-products/footprints.geojson",
+      "pmtiles": "data/planet-tanager-sample-products/footprints.pmtiles"
+    }
+  ]
+}
