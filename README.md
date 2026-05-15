@@ -1,6 +1,6 @@
 # planet-stac-catalogs
 
-Footprints of Planet Open Data STAC catalogs.
+Footprints of [Planet Open Data STAC catalogs](https://www.planet.com/data/stac/browser).
 
 ## Generate footprints
 
