@@ -90,7 +90,7 @@
         "title": "Open Canada",
         "slug": "open-canada",
         "href": "https://www.planet.com/data/stac/open-canada/catalog.json",
-        "item_count": 6623,
+        "item_count": 6607,
         "collection_count": 9,
         "geojson": "data/open-canada/footprints.geojson",
         "pmtiles": "data/open-canada/footprints.pmtiles"
@@ -184,7 +184,7 @@
         "title": "Spacenet 7 Data & Labels",
         "slug": "spacenet-7-data-labels",
         "href": "https://www.planet.com/data/stac/spacenet7/catalog.json",
-        "item_count": 3237,
+        "item_count": 3230,
         "collection_count": 3,
         "geojson": "data/spacenet-7-data-labels/footprints.geojson",
         "pmtiles": "data/spacenet-7-data-labels/footprints.pmtiles"
@@ -325,7 +325,7 @@
         "title": "Planet Tanager Sample Products",
         "slug": "planet-tanager-sample-products",
         "href": "https://www.planet.com/data/stac/tanager-core-imagery/catalog.json",
-        "item_count": 247,
+        "item_count": 270,
         "collection_count": 9,
         "geojson": "data/planet-tanager-sample-products/footprints.geojson",
         "pmtiles": "data/planet-tanager-sample-products/footprints.pmtiles"
