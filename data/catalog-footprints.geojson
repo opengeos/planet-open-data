@@ -90,7 +90,7 @@
         "title": "Open Canada",
         "slug": "open-canada",
         "href": "https://www.planet.com/data/stac/open-canada/catalog.json",
-        "item_count": 6607,
+        "item_count": 6674,
         "collection_count": 9,
         "geojson": "data/open-canada/footprints.geojson",
         "pmtiles": "data/open-canada/footprints.pmtiles"
@@ -184,7 +184,7 @@
         "title": "Spacenet 7 Data & Labels",
         "slug": "spacenet-7-data-labels",
         "href": "https://www.planet.com/data/stac/spacenet7/catalog.json",
-        "item_count": 3230,
+        "item_count": 3172,
         "collection_count": 3,
         "geojson": "data/spacenet-7-data-labels/footprints.geojson",
         "pmtiles": "data/spacenet-7-data-labels/footprints.pmtiles"
