@@ -373,67 +373,6 @@
     },
     {
       "type": "Feature",
-      "id": "20241025_185051_28_4001",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -118.63243713770188,
-              34.381417658559606
-            ],
-            [
-              -118.69420166460431,
-              34.14253944260727
-            ],
-            [
-              -118.44538301046094,
-              34.0955449153891
-            ],
-            [
-              -118.38325746459464,
-              34.33486198920734
-            ],
-            [
-              -118.63243713770188,
-              34.381417658559606
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "20241025_185051_28_4001",
-        "title": "TanagerScene 20241025_185051_28_4001 Core Imagery",
-        "datetime": "2024-10-25T18:50:51.283920Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "urban",
-        "collection_title": "Urban",
-        "catalog_id": "tanager-core-imagery",
-        "catalog_title": "Planet Tanager Sample Products",
-        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/urban/20241025_185051_28_4001/20241025_185051_28_4001.json",
-        "asset_count": 9,
-        "asset_keys": [
-          "basic_beta_udm",
-          "basic_radiance_hdf5",
-          "basic_sr_hdf5",
-          "geolocation_array",
-          "ortho_beta_udm",
-          "ortho_radiance_hdf5",
-          "ortho_sr_hdf5",
-          "ortho_visual",
-          "thumbnail"
-        ]
-      },
-      "bbox": [
-        -118.69420166460431,
-        34.0955449153891,
-        -118.38325746459464,
-        34.381417658559606
-      ]
-    },
-    {
-      "type": "Feature",
       "id": "20241025_185056_92_4001",
       "geometry": {
         "coordinates": [
@@ -659,67 +598,6 @@
         "catalog_id": "tanager-core-imagery",
         "catalog_title": "Planet Tanager Sample Products",
         "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/natural-lands/20241215_185902_00_4001/20241215_185902_00_4001.json",
-        "asset_count": 9,
-        "asset_keys": [
-          "basic_beta_udm",
-          "basic_radiance_hdf5",
-          "basic_sr_hdf5",
-          "geolocation_array",
-          "ortho_beta_udm",
-          "ortho_radiance_hdf5",
-          "ortho_sr_hdf5",
-          "ortho_visual",
-          "thumbnail"
-        ]
-      },
-      "bbox": [
-        -118.81364824617775,
-        34.071149135992606,
-        -118.54827599957004,
-        34.26475852812107
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "20241215_185902_00_4001",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -118.77414024532906,
-              34.26475852812107
-            ],
-            [
-              -118.81364824617775,
-              34.10982553882924
-            ],
-            [
-              -118.59241929988843,
-              34.071149135992606
-            ],
-            [
-              -118.54827599957004,
-              34.220970011901244
-            ],
-            [
-              -118.77414024532906,
-              34.26475852812107
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "20241215_185902_00_4001",
-        "title": "TanagerScene 20241215_185902_00_4001 Core Imagery",
-        "datetime": "2024-12-15T18:59:02.012445Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "urban",
-        "collection_title": "Urban",
-        "catalog_id": "tanager-core-imagery",
-        "catalog_title": "Planet Tanager Sample Products",
-        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/urban/20241215_185902_00_4001/20241215_185902_00_4001.json",
         "asset_count": 9,
         "asset_keys": [
           "basic_beta_udm",
@@ -1450,11 +1328,11 @@
         "datetime": "2025-02-21T10:20:48.165094Z",
         "start_datetime": null,
         "end_datetime": null,
-        "collection": "natural-lands",
-        "collection_title": "Natural Lands",
+        "collection": "energy-mining",
+        "collection_title": "Energy and Mining",
         "catalog_id": "tanager-core-imagery",
         "catalog_title": "Planet Tanager Sample Products",
-        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/natural-lands/20250221_102048_16_4001/20250221_102048_16_4001.json",
+        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/energy-mining/20250221_102048_16_4001/20250221_102048_16_4001.json",
         "asset_count": 9,
         "asset_keys": [
           "basic_beta_udm",
@@ -1511,11 +1389,11 @@
         "datetime": "2025-02-21T10:20:48.165094Z",
         "start_datetime": null,
         "end_datetime": null,
-        "collection": "energy-mining",
-        "collection_title": "Energy and Mining",
+        "collection": "natural-lands",
+        "collection_title": "Natural Lands",
         "catalog_id": "tanager-core-imagery",
         "catalog_title": "Planet Tanager Sample Products",
-        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/energy-mining/20250221_102048_16_4001/20250221_102048_16_4001.json",
+        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/natural-lands/20250221_102048_16_4001/20250221_102048_16_4001.json",
         "asset_count": 9,
         "asset_keys": [
           "basic_beta_udm",
@@ -10564,67 +10442,6 @@
     },
     {
       "type": "Feature",
-      "id": "20250712_100040_74_4001",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              22.822307550239948,
-              40.54854774222121
-            ],
-            [
-              22.78138617668787,
-              40.40712806916143
-            ],
-            [
-              23.019676341365265,
-              40.36670631578734
-            ],
-            [
-              23.06150957833444,
-              40.5091318791534
-            ],
-            [
-              22.822307550239948,
-              40.54854774222121
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "20250712_100040_74_4001",
-        "title": "TanagerScene 20250712_100040_74_4001 Core Imagery",
-        "datetime": "2025-07-12T10:00:40.748092Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "urban",
-        "collection_title": "Urban",
-        "catalog_id": "tanager-core-imagery",
-        "catalog_title": "Planet Tanager Sample Products",
-        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/urban/20250712_100040_74_4001/20250712_100040_74_4001.json",
-        "asset_count": 9,
-        "asset_keys": [
-          "basic_beta_udm",
-          "basic_radiance_hdf5",
-          "basic_sr_hdf5",
-          "geolocation_array",
-          "ortho_beta_udm",
-          "ortho_radiance_hdf5",
-          "ortho_sr_hdf5",
-          "ortho_visual",
-          "thumbnail"
-        ]
-      },
-      "bbox": [
-        22.78138617668787,
-        40.36670631578734,
-        23.06150957833444,
-        40.54854774222121
-      ]
-    },
-    {
-      "type": "Feature",
       "id": "20250724_144826_58_4001",
       "geometry": {
         "coordinates": [
@@ -10987,67 +10804,6 @@
         38.463985293499114,
         -111.8669470913326,
         38.652203283812256
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "20250726_192343_21_4001",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -118.71208438641762,
-              34.56429014211425
-            ],
-            [
-              -118.74741596087237,
-              34.39075282009934
-            ],
-            [
-              -118.52667364718477,
-              34.3562480067096
-            ],
-            [
-              -118.47159841961447,
-              34.53500552827484
-            ],
-            [
-              -118.71208438641762,
-              34.56429014211425
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "20250726_192343_21_4001",
-        "title": "TanagerScene 20250726_192343_21_4001 Core Imagery",
-        "datetime": "2025-07-26T19:23:43.227444Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "urban",
-        "collection_title": "Urban",
-        "catalog_id": "tanager-core-imagery",
-        "catalog_title": "Planet Tanager Sample Products",
-        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/urban/20250726_192343_21_4001/20250726_192343_21_4001.json",
-        "asset_count": 9,
-        "asset_keys": [
-          "basic_beta_udm",
-          "basic_radiance_hdf5",
-          "basic_sr_hdf5",
-          "geolocation_array",
-          "ortho_beta_udm",
-          "ortho_radiance_hdf5",
-          "ortho_sr_hdf5",
-          "ortho_visual",
-          "thumbnail"
-        ]
-      },
-      "bbox": [
-        -118.74741596087237,
-        34.3562480067096,
-        -118.47159841961447,
-        34.56429014211425
       ]
     },
     {
@@ -13709,11 +13465,11 @@
         "datetime": "2025-09-03T16:47:19.928087Z",
         "start_datetime": null,
         "end_datetime": null,
-        "collection": "urban",
-        "collection_title": "Urban",
+        "collection": "ROCX2025",
+        "collection_title": "ROCX 2025",
         "catalog_id": "tanager-core-imagery",
         "catalog_title": "Planet Tanager Sample Products",
-        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/urban/20250903_164719_92_4001/20250903_164719_92_4001.json",
+        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/ROCX2025/20250903_164719_92_4001/20250903_164719_92_4001.json",
         "asset_count": 9,
         "asset_keys": [
           "basic_beta_udm",
@@ -13770,11 +13526,11 @@
         "datetime": "2025-09-03T16:47:19.928087Z",
         "start_datetime": null,
         "end_datetime": null,
-        "collection": "ROCX2025",
-        "collection_title": "ROCX 2025",
+        "collection": "urban",
+        "collection_title": "Urban",
         "catalog_id": "tanager-core-imagery",
         "catalog_title": "Planet Tanager Sample Products",
-        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/ROCX2025/20250903_164719_92_4001/20250903_164719_92_4001.json",
+        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/urban/20250903_164719_92_4001/20250903_164719_92_4001.json",
         "asset_count": 9,
         "asset_keys": [
           "basic_beta_udm",
@@ -15905,11 +15661,11 @@
         "datetime": "2025-10-01T16:50:54.913088Z",
         "start_datetime": null,
         "end_datetime": null,
-        "collection": "ROCX2025",
-        "collection_title": "ROCX 2025",
+        "collection": "urban",
+        "collection_title": "Urban",
         "catalog_id": "tanager-core-imagery",
         "catalog_title": "Planet Tanager Sample Products",
-        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/ROCX2025/20251001_165054_91_4001/20251001_165054_91_4001.json",
+        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/urban/20251001_165054_91_4001/20251001_165054_91_4001.json",
         "asset_count": 9,
         "asset_keys": [
           "basic_beta_udm",
@@ -15966,11 +15722,11 @@
         "datetime": "2025-10-01T16:50:54.913088Z",
         "start_datetime": null,
         "end_datetime": null,
-        "collection": "urban",
-        "collection_title": "Urban",
+        "collection": "ROCX2025",
+        "collection_title": "ROCX 2025",
         "catalog_id": "tanager-core-imagery",
         "catalog_title": "Planet Tanager Sample Products",
-        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/urban/20251001_165054_91_4001/20251001_165054_91_4001.json",
+        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/ROCX2025/20251001_165054_91_4001/20251001_165054_91_4001.json",
         "asset_count": 9,
         "asset_keys": [
           "basic_beta_udm",
@@ -16149,11 +15905,11 @@
         "datetime": "2025-10-15T16:53:01.897840Z",
         "start_datetime": null,
         "end_datetime": null,
-        "collection": "ROCX2025",
-        "collection_title": "ROCX 2025",
+        "collection": "urban",
+        "collection_title": "Urban",
         "catalog_id": "tanager-core-imagery",
         "catalog_title": "Planet Tanager Sample Products",
-        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/ROCX2025/20251015_165301_89_4001/20251015_165301_89_4001.json",
+        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/urban/20251015_165301_89_4001/20251015_165301_89_4001.json",
         "asset_count": 9,
         "asset_keys": [
           "basic_beta_udm",
@@ -16210,11 +15966,11 @@
         "datetime": "2025-10-15T16:53:01.897840Z",
         "start_datetime": null,
         "end_datetime": null,
-        "collection": "urban",
-        "collection_title": "Urban",
+        "collection": "ROCX2025",
+        "collection_title": "ROCX 2025",
         "catalog_id": "tanager-core-imagery",
         "catalog_title": "Planet Tanager Sample Products",
-        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/urban/20251015_165301_89_4001/20251015_165301_89_4001.json",
+        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/ROCX2025/20251015_165301_89_4001/20251015_165301_89_4001.json",
         "asset_count": 9,
         "asset_keys": [
           "basic_beta_udm",
