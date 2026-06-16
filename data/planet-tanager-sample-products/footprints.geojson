@@ -5977,11 +5977,11 @@
         "datetime": "2025-05-03T02:05:25.165094Z",
         "start_datetime": null,
         "end_datetime": null,
-        "collection": "urban",
-        "collection_title": "Urban",
+        "collection": "coastal-water-bodies",
+        "collection_title": "Coastal and Water Bodies",
         "catalog_id": "tanager-core-imagery",
         "catalog_title": "Planet Tanager Sample Products",
-        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/urban/20250503_020525_16_4001/20250503_020525_16_4001.json",
+        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/coastal-water-bodies/20250503_020525_16_4001/20250503_020525_16_4001.json",
         "asset_count": 9,
         "asset_keys": [
           "basic_beta_udm",
@@ -6038,11 +6038,11 @@
         "datetime": "2025-05-03T02:05:25.165094Z",
         "start_datetime": null,
         "end_datetime": null,
-        "collection": "coastal-water-bodies",
-        "collection_title": "Coastal and Water Bodies",
+        "collection": "urban",
+        "collection_title": "Urban",
         "catalog_id": "tanager-core-imagery",
         "catalog_title": "Planet Tanager Sample Products",
-        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/coastal-water-bodies/20250503_020525_16_4001/20250503_020525_16_4001.json",
+        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/urban/20250503_020525_16_4001/20250503_020525_16_4001.json",
         "asset_count": 9,
         "asset_keys": [
           "basic_beta_udm",
@@ -9965,6 +9965,67 @@
     },
     {
       "type": "Feature",
+      "id": "20250626_082641_74_4001",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              36.80029113584695,
+              -17.778402617226725
+            ],
+            [
+              36.768422052829266,
+              -17.928427817814324
+            ],
+            [
+              36.96628111604561,
+              -17.966579048731468
+            ],
+            [
+              36.99832734297846,
+              -17.815100028936822
+            ],
+            [
+              36.80029113584695,
+              -17.778402617226725
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250626_082641_74_4001",
+        "title": "TanagerScene 20250626_082641_74_4001 Core Imagery",
+        "datetime": "2025-06-26T08:26:41.747094Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "coastal-water-bodies",
+        "collection_title": "Coastal and Water Bodies",
+        "catalog_id": "tanager-core-imagery",
+        "catalog_title": "Planet Tanager Sample Products",
+        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/coastal-water-bodies/20250626_082641_74_4001/20250626_082641_74_4001.json",
+        "asset_count": 9,
+        "asset_keys": [
+          "basic_beta_udm",
+          "basic_radiance_hdf5",
+          "basic_sr_hdf5",
+          "geolocation_array",
+          "ortho_beta_udm",
+          "ortho_radiance_hdf5",
+          "ortho_sr_hdf5",
+          "ortho_visual",
+          "thumbnail"
+        ]
+      },
+      "bbox": [
+        36.768422052829266,
+        -17.966579048731468,
+        36.99832734297846,
+        -17.778402617226725
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250626_144415_59_4001",
       "geometry": {
         "coordinates": [
@@ -11002,6 +11063,67 @@
     },
     {
       "type": "Feature",
+      "id": "20250724_144826_58_4001",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -58.67496444705686,
+              -34.2687386805137
+            ],
+            [
+              -58.7141055901102,
+              -34.42134216573006
+            ],
+            [
+              -58.49282478443264,
+              -34.46006129358023
+            ],
+            [
+              -58.45417106848554,
+              -34.308377463413066
+            ],
+            [
+              -58.67496444705686,
+              -34.2687386805137
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250724_144826_58_4001",
+        "title": "TanagerScene 20250724_144826_58_4001 Core Imagery",
+        "datetime": "2025-07-24T14:48:26.582000Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "urban",
+        "collection_title": "Urban",
+        "catalog_id": "tanager-core-imagery",
+        "catalog_title": "Planet Tanager Sample Products",
+        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/urban/20250724_144826_58_4001/20250724_144826_58_4001.json",
+        "asset_count": 9,
+        "asset_keys": [
+          "basic_beta_udm",
+          "basic_radiance_hdf5",
+          "basic_sr_hdf5",
+          "geolocation_array",
+          "ortho_beta_udm",
+          "ortho_radiance_hdf5",
+          "ortho_sr_hdf5",
+          "ortho_visual",
+          "thumbnail"
+        ]
+      },
+      "bbox": [
+        -58.7141055901102,
+        -34.46006129358023,
+        -58.45417106848554,
+        -34.2687386805137
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250724_144830_83_4001",
       "geometry": {
         "coordinates": [
@@ -11407,6 +11529,67 @@
         "catalog_id": "tanager-core-imagery",
         "catalog_title": "Planet Tanager Sample Products",
         "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/natural-lands/20250726_192403_06_4001/20250726_192403_06_4001.json",
+        "asset_count": 9,
+        "asset_keys": [
+          "basic_beta_udm",
+          "basic_radiance_hdf5",
+          "basic_sr_hdf5",
+          "geolocation_array",
+          "ortho_beta_udm",
+          "ortho_radiance_hdf5",
+          "ortho_sr_hdf5",
+          "ortho_visual",
+          "thumbnail"
+        ]
+      },
+      "bbox": [
+        -118.7910628466147,
+        34.17803482712942,
+        -118.52667364950617,
+        34.3907528102107
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250726_192403_06_4001",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -118.74741596235278,
+              34.3907528102107
+            ],
+            [
+              -118.7910628466147,
+              34.21932506980487
+            ],
+            [
+              -118.57294146689644,
+              34.17803482712942
+            ],
+            [
+              -118.52667364950617,
+              34.35624799651083
+            ],
+            [
+              -118.74741596235278,
+              34.3907528102107
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250726_192403_06_4001",
+        "title": "TanagerScene 20250726_192403_06_4001 Core Imagery",
+        "datetime": "2025-07-26T19:24:03.073869Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "urban",
+        "collection_title": "Urban",
+        "catalog_id": "tanager-core-imagery",
+        "catalog_title": "Planet Tanager Sample Products",
+        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/urban/20250726_192403_06_4001/20250726_192403_06_4001.json",
         "asset_count": 9,
         "asset_keys": [
           "basic_beta_udm",
@@ -12439,11 +12622,11 @@
         "datetime": "2025-08-12T11:09:05.824999Z",
         "start_datetime": null,
         "end_datetime": null,
-        "collection": "agriculture",
-        "collection_title": "Agriculture",
+        "collection": "natural-lands",
+        "collection_title": "Natural Lands",
         "catalog_id": "tanager-core-imagery",
         "catalog_title": "Planet Tanager Sample Products",
-        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/agriculture/20250812_110905_82_4001/20250812_110905_82_4001.json",
+        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/natural-lands/20250812_110905_82_4001/20250812_110905_82_4001.json",
         "asset_count": 9,
         "asset_keys": [
           "basic_beta_udm",
@@ -12500,11 +12683,11 @@
         "datetime": "2025-08-12T11:09:05.824999Z",
         "start_datetime": null,
         "end_datetime": null,
-        "collection": "natural-lands",
-        "collection_title": "Natural Lands",
+        "collection": "agriculture",
+        "collection_title": "Agriculture",
         "catalog_id": "tanager-core-imagery",
         "catalog_title": "Planet Tanager Sample Products",
-        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/natural-lands/20250812_110905_82_4001/20250812_110905_82_4001.json",
+        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/agriculture/20250812_110905_82_4001/20250812_110905_82_4001.json",
         "asset_count": 9,
         "asset_keys": [
           "basic_beta_udm",
@@ -13198,6 +13381,67 @@
     },
     {
       "type": "Feature",
+      "id": "20250829_092857_80_4001",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              25.032930076979305,
+              -17.593718166612902
+            ],
+            [
+              24.987542570197018,
+              -17.812387583553747
+            ],
+            [
+              25.179483848894012,
+              -17.848370964243085
+            ],
+            [
+              25.224630485951828,
+              -17.63118236741393
+            ],
+            [
+              25.032930076979305,
+              -17.593718166612902
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250829_092857_80_4001",
+        "title": "TanagerScene 20250829_092857_80_4001 Core Imagery",
+        "datetime": "2025-08-29T09:28:57.802000Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "coastal-water-bodies",
+        "collection_title": "Coastal and Water Bodies",
+        "catalog_id": "tanager-core-imagery",
+        "catalog_title": "Planet Tanager Sample Products",
+        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/coastal-water-bodies/20250829_092857_80_4001/20250829_092857_80_4001.json",
+        "asset_count": 9,
+        "asset_keys": [
+          "basic_beta_udm",
+          "basic_radiance_hdf5",
+          "basic_sr_hdf5",
+          "geolocation_array",
+          "ortho_beta_udm",
+          "ortho_radiance_hdf5",
+          "ortho_sr_hdf5",
+          "ortho_visual",
+          "thumbnail"
+        ]
+      },
+      "bbox": [
+        24.987542570197018,
+        -17.848370964243085,
+        25.224630485951828,
+        -17.593718166612902
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250829_092903_90_4001",
       "geometry": {
         "coordinates": [
@@ -13481,6 +13725,67 @@
         "catalog_id": "tanager-core-imagery",
         "catalog_title": "Planet Tanager Sample Products",
         "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/natural-lands/20250902_190116_02_4001/20250902_190116_02_4001.json",
+        "asset_count": 9,
+        "asset_keys": [
+          "basic_beta_udm",
+          "basic_radiance_hdf5",
+          "basic_sr_hdf5",
+          "geolocation_array",
+          "ortho_beta_udm",
+          "ortho_radiance_hdf5",
+          "ortho_sr_hdf5",
+          "ortho_visual",
+          "thumbnail"
+        ]
+      },
+      "bbox": [
+        -112.16645139013285,
+        38.53540100928208,
+        -111.82839137277982,
+        38.76436060528663
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250902_190116_02_4001",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.11228229179831,
+              38.76436060528663
+            ],
+            [
+              -112.16645139013285,
+              38.55263786891655
+            ],
+            [
+              -111.8886450813673,
+              38.53540100928208
+            ],
+            [
+              -111.82839137277982,
+              38.750151990150016
+            ],
+            [
+              -112.11228229179831,
+              38.76436060528663
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250902_190116_02_4001",
+        "title": "TanagerScene 20250902_190116_02_4001 Core Imagery",
+        "datetime": "2025-09-02T19:01:16.026000Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "fire",
+        "collection_title": "Fire",
+        "catalog_id": "tanager-core-imagery",
+        "catalog_title": "Planet Tanager Sample Products",
+        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/fire/20250902_190116_02_4001/20250902_190116_02_4001.json",
         "asset_count": 9,
         "asset_keys": [
           "basic_beta_udm",
@@ -14818,11 +15123,11 @@
         "datetime": "2025-09-18T11:27:37.916591Z",
         "start_datetime": null,
         "end_datetime": null,
-        "collection": "agriculture",
-        "collection_title": "Agriculture",
+        "collection": "natural-lands",
+        "collection_title": "Natural Lands",
         "catalog_id": "tanager-core-imagery",
         "catalog_title": "Planet Tanager Sample Products",
-        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/agriculture/20250918_112737_91_4001/20250918_112737_91_4001.json",
+        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/natural-lands/20250918_112737_91_4001/20250918_112737_91_4001.json",
         "asset_count": 9,
         "asset_keys": [
           "basic_beta_udm",
@@ -14879,11 +15184,11 @@
         "datetime": "2025-09-18T11:27:37.916591Z",
         "start_datetime": null,
         "end_datetime": null,
-        "collection": "natural-lands",
-        "collection_title": "Natural Lands",
+        "collection": "agriculture",
+        "collection_title": "Agriculture",
         "catalog_id": "tanager-core-imagery",
         "catalog_title": "Planet Tanager Sample Products",
-        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/natural-lands/20250918_112737_91_4001/20250918_112737_91_4001.json",
+        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/agriculture/20250918_112737_91_4001/20250918_112737_91_4001.json",
         "asset_count": 9,
         "asset_keys": [
           "basic_beta_udm",
@@ -15433,6 +15738,67 @@
         "catalog_id": "tanager-core-imagery",
         "catalog_title": "Planet Tanager Sample Products",
         "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/natural-lands/20250926_092059_95_4001/20250926_092059_95_4001.json",
+        "asset_count": 9,
+        "asset_keys": [
+          "basic_beta_udm",
+          "basic_radiance_hdf5",
+          "basic_sr_hdf5",
+          "geolocation_array",
+          "ortho_beta_udm",
+          "ortho_radiance_hdf5",
+          "ortho_sr_hdf5",
+          "ortho_visual",
+          "thumbnail"
+        ]
+      },
+      "bbox": [
+        33.51147360689734,
+        27.333639798504727,
+        33.75755119812752,
+        27.565149621161954
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250926_092059_95_4001",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              33.55782473217576,
+              27.565149621161954
+            ],
+            [
+              33.51147360689734,
+              27.372186565098417
+            ],
+            [
+              33.71045637551875,
+              27.333639798504727
+            ],
+            [
+              33.75755119812752,
+              27.52578601967751
+            ],
+            [
+              33.55782473217576,
+              27.565149621161954
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250926_092059_95_4001",
+        "title": "TanagerScene 20250926_092059_95_4001 Core Imagery",
+        "datetime": "2025-09-26T09:20:59.952000Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "coastal-water-bodies",
+        "collection_title": "Coastal and Water Bodies",
+        "catalog_id": "tanager-core-imagery",
+        "catalog_title": "Planet Tanager Sample Products",
+        "stac_href": "https://www.planet.com/data/stac/tanager-core-imagery/coastal-water-bodies/20250926_092059_95_4001/20250926_092059_95_4001.json",
         "asset_count": 9,
         "asset_keys": [
           "basic_beta_udm",
