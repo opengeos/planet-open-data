@@ -19,7 +19,7 @@
       "title": "Open Canada",
       "slug": "open-canada",
       "href": "https://www.planet.com/data/stac/open-canada/catalog.json",
-      "item_count": 6585,
+      "item_count": 6612,
       "collection_count": 9,
       "geojson": "data/open-canada/footprints.geojson",
       "pmtiles": "data/open-canada/footprints.pmtiles"
