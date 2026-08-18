@@ -1624,60 +1624,6 @@
     },
     {
       "type": "Feature",
-      "id": "2021-01-31",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -96.67882968595757,
-              40.735614271788364
-            ],
-            [
-              -96.39486919601963,
-              40.729550990431605
-            ],
-            [
-              -96.38639437723049,
-              40.94553017348504
-            ],
-            [
-              -96.67127646948059,
-              40.95163952809489
-            ],
-            [
-              -96.67882968595757,
-              40.735614271788364
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "2021-01-31",
-        "title": "2021-01-31",
-        "datetime": "2021-01-31T00:00:00+00:00",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "planet/fusion/14N/29E-188N",
-        "collection_title": "Planet Fusion (2021 Nebraska Sample)",
-        "catalog_id": "29e-188n",
-        "catalog_title": "Planet Fusion Data (2021 Nebraska Sample)",
-        "stac_href": "https://www.planet.com/data/stac/fusion/14N/29E-188N/2021-01-31.json",
-        "asset_count": 2,
-        "asset_keys": [
-          "qa",
-          "sr"
-        ]
-      },
-      "bbox": [
-        -96.67882968595757,
-        40.729550990431605,
-        -96.38639437723049,
-        40.95163952809489
-      ]
-    },
-    {
-      "type": "Feature",
       "id": "2021-02-01",
       "geometry": {
         "coordinates": [
@@ -2149,60 +2095,6 @@
         "catalog_id": "29e-188n",
         "catalog_title": "Planet Fusion Data (2021 Nebraska Sample)",
         "stac_href": "https://www.planet.com/data/stac/fusion/14N/29E-188N/2021-02-09.json",
-        "asset_count": 2,
-        "asset_keys": [
-          "qa",
-          "sr"
-        ]
-      },
-      "bbox": [
-        -96.67882968595757,
-        40.729550990431605,
-        -96.38639437723049,
-        40.95163952809489
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "2021-02-10",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -96.67882968595757,
-              40.735614271788364
-            ],
-            [
-              -96.39486919601963,
-              40.729550990431605
-            ],
-            [
-              -96.38639437723049,
-              40.94553017348504
-            ],
-            [
-              -96.67127646948059,
-              40.95163952809489
-            ],
-            [
-              -96.67882968595757,
-              40.735614271788364
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "2021-02-10",
-        "title": "2021-02-10",
-        "datetime": "2021-02-10T00:00:00+00:00",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "planet/fusion/14N/29E-188N",
-        "collection_title": "Planet Fusion (2021 Nebraska Sample)",
-        "catalog_id": "29e-188n",
-        "catalog_title": "Planet Fusion Data (2021 Nebraska Sample)",
-        "stac_href": "https://www.planet.com/data/stac/fusion/14N/29E-188N/2021-02-10.json",
         "asset_count": 2,
         "asset_keys": [
           "qa",
@@ -7942,60 +7834,6 @@
     },
     {
       "type": "Feature",
-      "id": "2021-05-28",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -96.67882968595757,
-              40.735614271788364
-            ],
-            [
-              -96.39486919601963,
-              40.729550990431605
-            ],
-            [
-              -96.38639437723049,
-              40.94553017348504
-            ],
-            [
-              -96.67127646948059,
-              40.95163952809489
-            ],
-            [
-              -96.67882968595757,
-              40.735614271788364
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "2021-05-28",
-        "title": "2021-05-28",
-        "datetime": "2021-05-28T00:00:00+00:00",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "planet/fusion/14N/29E-188N",
-        "collection_title": "Planet Fusion (2021 Nebraska Sample)",
-        "catalog_id": "29e-188n",
-        "catalog_title": "Planet Fusion Data (2021 Nebraska Sample)",
-        "stac_href": "https://www.planet.com/data/stac/fusion/14N/29E-188N/2021-05-28.json",
-        "asset_count": 2,
-        "asset_keys": [
-          "qa",
-          "sr"
-        ]
-      },
-      "bbox": [
-        -96.67882968595757,
-        40.729550990431605,
-        -96.38639437723049,
-        40.95163952809489
-      ]
-    },
-    {
-      "type": "Feature",
       "id": "2021-05-29",
       "geometry": {
         "coordinates": [
@@ -9493,60 +9331,6 @@
         "catalog_id": "29e-188n",
         "catalog_title": "Planet Fusion Data (2021 Nebraska Sample)",
         "stac_href": "https://www.planet.com/data/stac/fusion/14N/29E-188N/2021-06-25.json",
-        "asset_count": 2,
-        "asset_keys": [
-          "qa",
-          "sr"
-        ]
-      },
-      "bbox": [
-        -96.67882968595757,
-        40.729550990431605,
-        -96.38639437723049,
-        40.95163952809489
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "2021-06-26",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -96.67882968595757,
-              40.735614271788364
-            ],
-            [
-              -96.39486919601963,
-              40.729550990431605
-            ],
-            [
-              -96.38639437723049,
-              40.94553017348504
-            ],
-            [
-              -96.67127646948059,
-              40.95163952809489
-            ],
-            [
-              -96.67882968595757,
-              40.735614271788364
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "2021-06-26",
-        "title": "2021-06-26",
-        "datetime": "2021-06-26T00:00:00+00:00",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "planet/fusion/14N/29E-188N",
-        "collection_title": "Planet Fusion (2021 Nebraska Sample)",
-        "catalog_id": "29e-188n",
-        "catalog_title": "Planet Fusion Data (2021 Nebraska Sample)",
-        "stac_href": "https://www.planet.com/data/stac/fusion/14N/29E-188N/2021-06-26.json",
         "asset_count": 2,
         "asset_keys": [
           "qa",
