@@ -36309,59 +36309,6 @@
     },
     {
       "type": "Feature",
-      "id": "sn7_train_labels_L15-0506E-1204N_2027_3374_13_2018_02",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -90.92285156250001,
-              30.221101852485972
-            ],
-            [
-              -90.87890625000614,
-              30.221101852485972
-            ],
-            [
-              -90.87890625000614,
-              30.183121842200766
-            ],
-            [
-              -90.92285156250001,
-              30.183121842200766
-            ],
-            [
-              -90.92285156250001,
-              30.221101852485972
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-0506E-1204N_2027_3374_13_2018_02",
-        "title": "sn7_train_labels_L15-0506E-1204N_2027_3374_13_2018_02",
-        "datetime": "2018-02-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-0506E-1204N_2027_3374_13_2018_02/sn7_train_labels_L15-0506E-1204N_2027_3374_13_2018_02.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        -90.92285156250001,
-        30.183121842200766,
-        -90.87890625000614,
-        30.221101852485972
-      ]
-    },
-    {
-      "type": "Feature",
       "id": "sn7_train_labels_L15-0506E-1204N_2027_3374_13_2018_03",
       "geometry": {
         "coordinates": [
@@ -36454,6 +36401,59 @@
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
         "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-0506E-1204N_2027_3374_13_2018_04/sn7_train_labels_L15-0506E-1204N_2027_3374_13_2018_04.json",
+        "asset_count": 1,
+        "asset_keys": [
+          "labels"
+        ]
+      },
+      "bbox": [
+        -90.92285156250001,
+        30.183121842200766,
+        -90.87890625000614,
+        30.221101852485972
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sn7_train_labels_L15-0506E-1204N_2027_3374_13_2018_05",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -90.92285156250001,
+              30.221101852485972
+            ],
+            [
+              -90.87890625000614,
+              30.221101852485972
+            ],
+            [
+              -90.87890625000614,
+              30.183121842200766
+            ],
+            [
+              -90.92285156250001,
+              30.183121842200766
+            ],
+            [
+              -90.92285156250001,
+              30.221101852485972
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "sn7_train_labels_L15-0506E-1204N_2027_3374_13_2018_05",
+        "title": "sn7_train_labels_L15-0506E-1204N_2027_3374_13_2018_05",
+        "datetime": "2018-05-01T00:00:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "sn7_train_labels",
+        "collection_title": "SpaceNet 7 Training Labels",
+        "catalog_id": "spacenet7",
+        "catalog_title": "Spacenet 7 Data & Labels",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-0506E-1204N_2027_3374_13_2018_05/sn7_train_labels_L15-0506E-1204N_2027_3374_13_2018_05.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
@@ -37104,59 +37104,6 @@
     },
     {
       "type": "Feature",
-      "id": "sn7_train_labels_L15-0506E-1204N_2027_3374_13_2019_06",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -90.92285156250001,
-              30.221101852485972
-            ],
-            [
-              -90.87890625000614,
-              30.221101852485972
-            ],
-            [
-              -90.87890625000614,
-              30.183121842200766
-            ],
-            [
-              -90.92285156250001,
-              30.183121842200766
-            ],
-            [
-              -90.92285156250001,
-              30.221101852485972
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-0506E-1204N_2027_3374_13_2019_06",
-        "title": "sn7_train_labels_L15-0506E-1204N_2027_3374_13_2019_06",
-        "datetime": "2019-06-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-0506E-1204N_2027_3374_13_2019_06/sn7_train_labels_L15-0506E-1204N_2027_3374_13_2019_06.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        -90.92285156250001,
-        30.183121842200766,
-        -90.87890625000614,
-        30.221101852485972
-      ]
-    },
-    {
-      "type": "Feature",
       "id": "sn7_train_labels_L15-0506E-1204N_2027_3374_13_2019_07",
       "geometry": {
         "coordinates": [
@@ -37581,59 +37528,6 @@
     },
     {
       "type": "Feature",
-      "id": "sn7_train_labels_L15-0544E-1228N_2176_3279_13_2018_03",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -84.375,
-              33.76088200086917
-            ],
-            [
-              -84.33109760285033,
-              33.76088200086917
-            ],
-            [
-              -84.33109760285033,
-              33.72433966175266
-            ],
-            [
-              -84.375,
-              33.72433966175266
-            ],
-            [
-              -84.375,
-              33.76088200086917
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-0544E-1228N_2176_3279_13_2018_03",
-        "title": "sn7_train_labels_L15-0544E-1228N_2176_3279_13_2018_03",
-        "datetime": "2018-03-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-0544E-1228N_2176_3279_13_2018_03/sn7_train_labels_L15-0544E-1228N_2176_3279_13_2018_03.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        -84.375,
-        33.72433966175266,
-        -84.33109760285033,
-        33.76088200086917
-      ]
-    },
-    {
-      "type": "Feature",
       "id": "sn7_train_labels_L15-0544E-1228N_2176_3279_13_2018_05",
       "geometry": {
         "coordinates": [
@@ -37846,6 +37740,112 @@
     },
     {
       "type": "Feature",
+      "id": "sn7_train_labels_L15-0544E-1228N_2176_3279_13_2018_09",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -84.375,
+              33.76088200086917
+            ],
+            [
+              -84.33109760285033,
+              33.76088200086917
+            ],
+            [
+              -84.33109760285033,
+              33.72433966175266
+            ],
+            [
+              -84.375,
+              33.72433966175266
+            ],
+            [
+              -84.375,
+              33.76088200086917
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "sn7_train_labels_L15-0544E-1228N_2176_3279_13_2018_09",
+        "title": "sn7_train_labels_L15-0544E-1228N_2176_3279_13_2018_09",
+        "datetime": "2018-09-01T00:00:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "sn7_train_labels",
+        "collection_title": "SpaceNet 7 Training Labels",
+        "catalog_id": "spacenet7",
+        "catalog_title": "Spacenet 7 Data & Labels",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-0544E-1228N_2176_3279_13_2018_09/sn7_train_labels_L15-0544E-1228N_2176_3279_13_2018_09.json",
+        "asset_count": 1,
+        "asset_keys": [
+          "labels"
+        ]
+      },
+      "bbox": [
+        -84.375,
+        33.72433966175266,
+        -84.33109760285033,
+        33.76088200086917
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sn7_train_labels_L15-0544E-1228N_2176_3279_13_2018_10",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -84.375,
+              33.76088200086917
+            ],
+            [
+              -84.33109760285033,
+              33.76088200086917
+            ],
+            [
+              -84.33109760285033,
+              33.72433966175266
+            ],
+            [
+              -84.375,
+              33.72433966175266
+            ],
+            [
+              -84.375,
+              33.76088200086917
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "sn7_train_labels_L15-0544E-1228N_2176_3279_13_2018_10",
+        "title": "sn7_train_labels_L15-0544E-1228N_2176_3279_13_2018_10",
+        "datetime": "2018-10-01T00:00:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "sn7_train_labels",
+        "collection_title": "SpaceNet 7 Training Labels",
+        "catalog_id": "spacenet7",
+        "catalog_title": "Spacenet 7 Data & Labels",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-0544E-1228N_2176_3279_13_2018_10/sn7_train_labels_L15-0544E-1228N_2176_3279_13_2018_10.json",
+        "asset_count": 1,
+        "asset_keys": [
+          "labels"
+        ]
+      },
+      "bbox": [
+        -84.375,
+        33.72433966175266,
+        -84.33109760285033,
+        33.76088200086917
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "sn7_train_labels_L15-0544E-1228N_2176_3279_13_2018_11",
       "geometry": {
         "coordinates": [
@@ -37885,59 +37885,6 @@
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
         "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-0544E-1228N_2176_3279_13_2018_11/sn7_train_labels_L15-0544E-1228N_2176_3279_13_2018_11.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        -84.375,
-        33.72433966175266,
-        -84.33109760285033,
-        33.76088200086917
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "sn7_train_labels_L15-0544E-1228N_2176_3279_13_2018_12",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -84.375,
-              33.76088200086917
-            ],
-            [
-              -84.33109760285033,
-              33.76088200086917
-            ],
-            [
-              -84.33109760285033,
-              33.72433966175266
-            ],
-            [
-              -84.375,
-              33.72433966175266
-            ],
-            [
-              -84.375,
-              33.76088200086917
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-0544E-1228N_2176_3279_13_2018_12",
-        "title": "sn7_train_labels_L15-0544E-1228N_2176_3279_13_2018_12",
-        "datetime": "2018-12-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-0544E-1228N_2176_3279_13_2018_12/sn7_train_labels_L15-0544E-1228N_2176_3279_13_2018_12.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
@@ -38111,59 +38058,6 @@
     },
     {
       "type": "Feature",
-      "id": "sn7_train_labels_L15-0544E-1228N_2176_3279_13_2019_04",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -84.375,
-              33.76088200086917
-            ],
-            [
-              -84.33109760285033,
-              33.76088200086917
-            ],
-            [
-              -84.33109760285033,
-              33.72433966175266
-            ],
-            [
-              -84.375,
-              33.72433966175266
-            ],
-            [
-              -84.375,
-              33.76088200086917
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-0544E-1228N_2176_3279_13_2019_04",
-        "title": "sn7_train_labels_L15-0544E-1228N_2176_3279_13_2019_04",
-        "datetime": "2019-04-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-0544E-1228N_2176_3279_13_2019_04/sn7_train_labels_L15-0544E-1228N_2176_3279_13_2019_04.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        -84.375,
-        33.72433966175266,
-        -84.33109760285033,
-        33.76088200086917
-      ]
-    },
-    {
-      "type": "Feature",
       "id": "sn7_train_labels_L15-0544E-1228N_2176_3279_13_2019_06",
       "geometry": {
         "coordinates": [
@@ -38217,6 +38111,59 @@
     },
     {
       "type": "Feature",
+      "id": "sn7_train_labels_L15-0544E-1228N_2176_3279_13_2019_07",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -84.375,
+              33.76088200086917
+            ],
+            [
+              -84.33109760285033,
+              33.76088200086917
+            ],
+            [
+              -84.33109760285033,
+              33.72433966175266
+            ],
+            [
+              -84.375,
+              33.72433966175266
+            ],
+            [
+              -84.375,
+              33.76088200086917
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "sn7_train_labels_L15-0544E-1228N_2176_3279_13_2019_07",
+        "title": "sn7_train_labels_L15-0544E-1228N_2176_3279_13_2019_07",
+        "datetime": "2019-07-01T00:00:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "sn7_train_labels",
+        "collection_title": "SpaceNet 7 Training Labels",
+        "catalog_id": "spacenet7",
+        "catalog_title": "Spacenet 7 Data & Labels",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-0544E-1228N_2176_3279_13_2019_07/sn7_train_labels_L15-0544E-1228N_2176_3279_13_2019_07.json",
+        "asset_count": 1,
+        "asset_keys": [
+          "labels"
+        ]
+      },
+      "bbox": [
+        -84.375,
+        33.72433966175266,
+        -84.33109760285033,
+        33.76088200086917
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "sn7_train_labels_L15-0544E-1228N_2176_3279_13_2019_08",
       "geometry": {
         "coordinates": [
@@ -38256,112 +38203,6 @@
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
         "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-0544E-1228N_2176_3279_13_2019_08/sn7_train_labels_L15-0544E-1228N_2176_3279_13_2019_08.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        -84.375,
-        33.72433966175266,
-        -84.33109760285033,
-        33.76088200086917
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "sn7_train_labels_L15-0544E-1228N_2176_3279_13_2019_09",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -84.375,
-              33.76088200086917
-            ],
-            [
-              -84.33109760285033,
-              33.76088200086917
-            ],
-            [
-              -84.33109760285033,
-              33.72433966175266
-            ],
-            [
-              -84.375,
-              33.72433966175266
-            ],
-            [
-              -84.375,
-              33.76088200086917
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-0544E-1228N_2176_3279_13_2019_09",
-        "title": "sn7_train_labels_L15-0544E-1228N_2176_3279_13_2019_09",
-        "datetime": "2019-09-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-0544E-1228N_2176_3279_13_2019_09/sn7_train_labels_L15-0544E-1228N_2176_3279_13_2019_09.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        -84.375,
-        33.72433966175266,
-        -84.33109760285033,
-        33.76088200086917
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "sn7_train_labels_L15-0544E-1228N_2176_3279_13_2019_10",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -84.375,
-              33.76088200086917
-            ],
-            [
-              -84.33109760285033,
-              33.76088200086917
-            ],
-            [
-              -84.33109760285033,
-              33.72433966175266
-            ],
-            [
-              -84.375,
-              33.72433966175266
-            ],
-            [
-              -84.375,
-              33.76088200086917
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-0544E-1228N_2176_3279_13_2019_10",
-        "title": "sn7_train_labels_L15-0544E-1228N_2176_3279_13_2019_10",
-        "datetime": "2019-10-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-0544E-1228N_2176_3279_13_2019_10/sn7_train_labels_L15-0544E-1228N_2176_3279_13_2019_10.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
@@ -52209,6 +52050,59 @@
     },
     {
       "type": "Feature",
+      "id": "sn7_train_labels_L15-1014E-1375N_4056_2688_13_2018_07",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -1.7578125,
+              52.48278022207822
+            ],
+            [
+              -1.7139101028503358,
+              52.48278022207822
+            ],
+            [
+              -1.7139101028503358,
+              52.45603554397595
+            ],
+            [
+              -1.7578125,
+              52.45603554397595
+            ],
+            [
+              -1.7578125,
+              52.48278022207822
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "sn7_train_labels_L15-1014E-1375N_4056_2688_13_2018_07",
+        "title": "sn7_train_labels_L15-1014E-1375N_4056_2688_13_2018_07",
+        "datetime": "2018-07-01T00:00:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "sn7_train_labels",
+        "collection_title": "SpaceNet 7 Training Labels",
+        "catalog_id": "spacenet7",
+        "catalog_title": "Spacenet 7 Data & Labels",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1014E-1375N_4056_2688_13_2018_07/sn7_train_labels_L15-1014E-1375N_4056_2688_13_2018_07.json",
+        "asset_count": 1,
+        "asset_keys": [
+          "labels"
+        ]
+      },
+      "bbox": [
+        -1.7578125,
+        52.45603554397595,
+        -1.7139101028503358,
+        52.48278022207822
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "sn7_train_labels_L15-1014E-1375N_4056_2688_13_2018_08",
       "geometry": {
         "coordinates": [
@@ -52262,59 +52156,6 @@
     },
     {
       "type": "Feature",
-      "id": "sn7_train_labels_L15-1014E-1375N_4056_2688_13_2018_09",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -1.7578125,
-              52.48278022207822
-            ],
-            [
-              -1.7139101028503358,
-              52.48278022207822
-            ],
-            [
-              -1.7139101028503358,
-              52.45603554397595
-            ],
-            [
-              -1.7578125,
-              52.45603554397595
-            ],
-            [
-              -1.7578125,
-              52.48278022207822
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1014E-1375N_4056_2688_13_2018_09",
-        "title": "sn7_train_labels_L15-1014E-1375N_4056_2688_13_2018_09",
-        "datetime": "2018-09-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1014E-1375N_4056_2688_13_2018_09/sn7_train_labels_L15-1014E-1375N_4056_2688_13_2018_09.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        -1.7578125,
-        52.45603554397595,
-        -1.7139101028503358,
-        52.48278022207822
-      ]
-    },
-    {
-      "type": "Feature",
       "id": "sn7_train_labels_L15-1014E-1375N_4056_2688_13_2018_10",
       "geometry": {
         "coordinates": [
@@ -52354,6 +52195,59 @@
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
         "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1014E-1375N_4056_2688_13_2018_10/sn7_train_labels_L15-1014E-1375N_4056_2688_13_2018_10.json",
+        "asset_count": 1,
+        "asset_keys": [
+          "labels"
+        ]
+      },
+      "bbox": [
+        -1.7578125,
+        52.45603554397595,
+        -1.7139101028503358,
+        52.48278022207822
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sn7_train_labels_L15-1014E-1375N_4056_2688_13_2018_11",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -1.7578125,
+              52.48278022207822
+            ],
+            [
+              -1.7139101028503358,
+              52.48278022207822
+            ],
+            [
+              -1.7139101028503358,
+              52.45603554397595
+            ],
+            [
+              -1.7578125,
+              52.45603554397595
+            ],
+            [
+              -1.7578125,
+              52.48278022207822
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "sn7_train_labels_L15-1014E-1375N_4056_2688_13_2018_11",
+        "title": "sn7_train_labels_L15-1014E-1375N_4056_2688_13_2018_11",
+        "datetime": "2018-11-01T00:00:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "sn7_train_labels",
+        "collection_title": "SpaceNet 7 Training Labels",
+        "catalog_id": "spacenet7",
+        "catalog_title": "Spacenet 7 Data & Labels",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1014E-1375N_4056_2688_13_2018_11/sn7_train_labels_L15-1014E-1375N_4056_2688_13_2018_11.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
@@ -52619,59 +52513,6 @@
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
         "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1014E-1375N_4056_2688_13_2019_04/sn7_train_labels_L15-1014E-1375N_4056_2688_13_2019_04.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        -1.7578125,
-        52.45603554397595,
-        -1.7139101028503358,
-        52.48278022207822
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "sn7_train_labels_L15-1014E-1375N_4056_2688_13_2019_05",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -1.7578125,
-              52.48278022207822
-            ],
-            [
-              -1.7139101028503358,
-              52.48278022207822
-            ],
-            [
-              -1.7139101028503358,
-              52.45603554397595
-            ],
-            [
-              -1.7578125,
-              52.45603554397595
-            ],
-            [
-              -1.7578125,
-              52.48278022207822
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1014E-1375N_4056_2688_13_2019_05",
-        "title": "sn7_train_labels_L15-1014E-1375N_4056_2688_13_2019_05",
-        "datetime": "2019-05-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1014E-1375N_4056_2688_13_2019_05/sn7_train_labels_L15-1014E-1375N_4056_2688_13_2019_05.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
@@ -52990,6 +52831,59 @@
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
         "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1014E-1375N_4056_2688_13_2019_12/sn7_train_labels_L15-1014E-1375N_4056_2688_13_2019_12.json",
+        "asset_count": 1,
+        "asset_keys": [
+          "labels"
+        ]
+      },
+      "bbox": [
+        -1.7578125,
+        52.45603554397595,
+        -1.7139101028503358,
+        52.48278022207822
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sn7_train_labels_L15-1014E-1375N_4056_2688_13_2020_01",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -1.7578125,
+              52.48278022207822
+            ],
+            [
+              -1.7139101028503358,
+              52.48278022207822
+            ],
+            [
+              -1.7139101028503358,
+              52.45603554397595
+            ],
+            [
+              -1.7578125,
+              52.45603554397595
+            ],
+            [
+              -1.7578125,
+              52.48278022207822
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "sn7_train_labels_L15-1014E-1375N_4056_2688_13_2020_01",
+        "title": "sn7_train_labels_L15-1014E-1375N_4056_2688_13_2020_01",
+        "datetime": "2020-01-01T00:00:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "sn7_train_labels",
+        "collection_title": "SpaceNet 7 Training Labels",
+        "catalog_id": "spacenet7",
+        "catalog_title": "Spacenet 7 Data & Labels",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1014E-1375N_4056_2688_13_2020_01/sn7_train_labels_L15-1014E-1375N_4056_2688_13_2020_01.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
@@ -53958,6 +53852,59 @@
     },
     {
       "type": "Feature",
+      "id": "sn7_train_labels_L15-1025E-1366N_4102_2726_13_2018_01",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              0.263671875,
+              51.45400691005982
+            ],
+            [
+              0.30761718749389644,
+              51.45400691005982
+            ],
+            [
+              0.30761718749389644,
+              51.42661449707862
+            ],
+            [
+              0.263671875,
+              51.42661449707862
+            ],
+            [
+              0.263671875,
+              51.45400691005982
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "sn7_train_labels_L15-1025E-1366N_4102_2726_13_2018_01",
+        "title": "sn7_train_labels_L15-1025E-1366N_4102_2726_13_2018_01",
+        "datetime": "2018-01-01T00:00:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "sn7_train_labels",
+        "collection_title": "SpaceNet 7 Training Labels",
+        "catalog_id": "spacenet7",
+        "catalog_title": "Spacenet 7 Data & Labels",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1025E-1366N_4102_2726_13_2018_01/sn7_train_labels_L15-1025E-1366N_4102_2726_13_2018_01.json",
+        "asset_count": 1,
+        "asset_keys": [
+          "labels"
+        ]
+      },
+      "bbox": [
+        0.263671875,
+        51.42661449707862,
+        0.30761718749389644,
+        51.45400691005982
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "sn7_train_labels_L15-1025E-1366N_4102_2726_13_2018_02",
       "geometry": {
         "coordinates": [
@@ -54329,59 +54276,6 @@
     },
     {
       "type": "Feature",
-      "id": "sn7_train_labels_L15-1025E-1366N_4102_2726_13_2018_09",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              0.263671875,
-              51.45400691005982
-            ],
-            [
-              0.30761718749389644,
-              51.45400691005982
-            ],
-            [
-              0.30761718749389644,
-              51.42661449707862
-            ],
-            [
-              0.263671875,
-              51.42661449707862
-            ],
-            [
-              0.263671875,
-              51.45400691005982
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1025E-1366N_4102_2726_13_2018_09",
-        "title": "sn7_train_labels_L15-1025E-1366N_4102_2726_13_2018_09",
-        "datetime": "2018-09-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1025E-1366N_4102_2726_13_2018_09/sn7_train_labels_L15-1025E-1366N_4102_2726_13_2018_09.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        0.263671875,
-        51.42661449707862,
-        0.30761718749389644,
-        51.45400691005982
-      ]
-    },
-    {
-      "type": "Feature",
       "id": "sn7_train_labels_L15-1025E-1366N_4102_2726_13_2018_10",
       "geometry": {
         "coordinates": [
@@ -54580,6 +54474,59 @@
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
         "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1025E-1366N_4102_2726_13_2019_01/sn7_train_labels_L15-1025E-1366N_4102_2726_13_2019_01.json",
+        "asset_count": 1,
+        "asset_keys": [
+          "labels"
+        ]
+      },
+      "bbox": [
+        0.263671875,
+        51.42661449707862,
+        0.30761718749389644,
+        51.45400691005982
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sn7_train_labels_L15-1025E-1366N_4102_2726_13_2019_03",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              0.263671875,
+              51.45400691005982
+            ],
+            [
+              0.30761718749389644,
+              51.45400691005982
+            ],
+            [
+              0.30761718749389644,
+              51.42661449707862
+            ],
+            [
+              0.263671875,
+              51.42661449707862
+            ],
+            [
+              0.263671875,
+              51.45400691005982
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "sn7_train_labels_L15-1025E-1366N_4102_2726_13_2019_03",
+        "title": "sn7_train_labels_L15-1025E-1366N_4102_2726_13_2019_03",
+        "datetime": "2019-03-01T00:00:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "sn7_train_labels",
+        "collection_title": "SpaceNet 7 Training Labels",
+        "catalog_id": "spacenet7",
+        "catalog_title": "Spacenet 7 Data & Labels",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1025E-1366N_4102_2726_13_2019_03/sn7_train_labels_L15-1025E-1366N_4102_2726_13_2019_03.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
@@ -55018,6 +54965,59 @@
     },
     {
       "type": "Feature",
+      "id": "sn7_train_labels_L15-1025E-1366N_4102_2726_13_2019_12",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              0.263671875,
+              51.45400691005982
+            ],
+            [
+              0.30761718749389644,
+              51.45400691005982
+            ],
+            [
+              0.30761718749389644,
+              51.42661449707862
+            ],
+            [
+              0.263671875,
+              51.42661449707862
+            ],
+            [
+              0.263671875,
+              51.45400691005982
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "sn7_train_labels_L15-1025E-1366N_4102_2726_13_2019_12",
+        "title": "sn7_train_labels_L15-1025E-1366N_4102_2726_13_2019_12",
+        "datetime": "2019-12-01T00:00:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "sn7_train_labels",
+        "collection_title": "SpaceNet 7 Training Labels",
+        "catalog_id": "spacenet7",
+        "catalog_title": "Spacenet 7 Data & Labels",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1025E-1366N_4102_2726_13_2019_12/sn7_train_labels_L15-1025E-1366N_4102_2726_13_2019_12.json",
+        "asset_count": 1,
+        "asset_keys": [
+          "labels"
+        ]
+      },
+      "bbox": [
+        0.263671875,
+        51.42661449707862,
+        0.30761718749389644,
+        51.45400691005982
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "sn7_train_labels_L15-1025E-1366N_4102_2726_13_2020_01",
       "geometry": {
         "coordinates": [
@@ -55071,7 +55071,7 @@
     },
     {
       "type": "Feature",
-      "id": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_02",
+      "id": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_01",
       "geometry": {
         "coordinates": [
           [
@@ -55100,16 +55100,16 @@
         "type": "Polygon"
       },
       "properties": {
-        "id": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_02",
-        "title": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_02",
-        "datetime": "2018-02-01T00:00:00Z",
+        "id": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_01",
+        "title": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_01",
+        "datetime": "2018-01-01T00:00:00Z",
         "start_datetime": null,
         "end_datetime": null,
         "collection": "sn7_train_labels",
         "collection_title": "SpaceNet 7 Training Labels",
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_02/sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_02.json",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_01/sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_01.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
@@ -55177,59 +55177,6 @@
     },
     {
       "type": "Feature",
-      "id": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_04",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              4.394531249999999,
-              51.890053935216926
-            ],
-            [
-              4.4384765624938955,
-              51.890053935216926
-            ],
-            [
-              4.4384765624938955,
-              51.862923913606224
-            ],
-            [
-              4.394531249999999,
-              51.862923913606224
-            ],
-            [
-              4.394531249999999,
-              51.890053935216926
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_04",
-        "title": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_04",
-        "datetime": "2018-04-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_04/sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_04.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        4.394531249999999,
-        51.862923913606224,
-        4.4384765624938955,
-        51.890053935216926
-      ]
-    },
-    {
-      "type": "Feature",
       "id": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_05",
       "geometry": {
         "coordinates": [
@@ -55269,112 +55216,6 @@
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
         "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_05/sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_05.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        4.394531249999999,
-        51.862923913606224,
-        4.4384765624938955,
-        51.890053935216926
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_06",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              4.394531249999999,
-              51.890053935216926
-            ],
-            [
-              4.4384765624938955,
-              51.890053935216926
-            ],
-            [
-              4.4384765624938955,
-              51.862923913606224
-            ],
-            [
-              4.394531249999999,
-              51.862923913606224
-            ],
-            [
-              4.394531249999999,
-              51.890053935216926
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_06",
-        "title": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_06",
-        "datetime": "2018-06-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_06/sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_06.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        4.394531249999999,
-        51.862923913606224,
-        4.4384765624938955,
-        51.890053935216926
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_07",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              4.394531249999999,
-              51.890053935216926
-            ],
-            [
-              4.4384765624938955,
-              51.890053935216926
-            ],
-            [
-              4.4384765624938955,
-              51.862923913606224
-            ],
-            [
-              4.394531249999999,
-              51.862923913606224
-            ],
-            [
-              4.394531249999999,
-              51.890053935216926
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_07",
-        "title": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_07",
-        "datetime": "2018-07-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_07/sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_07.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
@@ -55601,6 +55442,112 @@
     },
     {
       "type": "Feature",
+      "id": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_12",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              4.394531249999999,
+              51.890053935216926
+            ],
+            [
+              4.4384765624938955,
+              51.890053935216926
+            ],
+            [
+              4.4384765624938955,
+              51.862923913606224
+            ],
+            [
+              4.394531249999999,
+              51.862923913606224
+            ],
+            [
+              4.394531249999999,
+              51.890053935216926
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_12",
+        "title": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_12",
+        "datetime": "2018-12-01T00:00:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "sn7_train_labels",
+        "collection_title": "SpaceNet 7 Training Labels",
+        "catalog_id": "spacenet7",
+        "catalog_title": "Spacenet 7 Data & Labels",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_12/sn7_train_labels_L15-1049E-1370N_4196_2710_13_2018_12.json",
+        "asset_count": 1,
+        "asset_keys": [
+          "labels"
+        ]
+      },
+      "bbox": [
+        4.394531249999999,
+        51.862923913606224,
+        4.4384765624938955,
+        51.890053935216926
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2019_02",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              4.394531249999999,
+              51.890053935216926
+            ],
+            [
+              4.4384765624938955,
+              51.890053935216926
+            ],
+            [
+              4.4384765624938955,
+              51.862923913606224
+            ],
+            [
+              4.394531249999999,
+              51.862923913606224
+            ],
+            [
+              4.394531249999999,
+              51.890053935216926
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2019_02",
+        "title": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2019_02",
+        "datetime": "2019-02-01T00:00:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "sn7_train_labels",
+        "collection_title": "SpaceNet 7 Training Labels",
+        "catalog_id": "spacenet7",
+        "catalog_title": "Spacenet 7 Data & Labels",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1049E-1370N_4196_2710_13_2019_02/sn7_train_labels_L15-1049E-1370N_4196_2710_13_2019_02.json",
+        "asset_count": 1,
+        "asset_keys": [
+          "labels"
+        ]
+      },
+      "bbox": [
+        4.394531249999999,
+        51.862923913606224,
+        4.4384765624938955,
+        51.890053935216926
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2019_03",
       "geometry": {
         "coordinates": [
@@ -55707,59 +55654,6 @@
     },
     {
       "type": "Feature",
-      "id": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2019_06",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              4.394531249999999,
-              51.890053935216926
-            ],
-            [
-              4.4384765624938955,
-              51.890053935216926
-            ],
-            [
-              4.4384765624938955,
-              51.862923913606224
-            ],
-            [
-              4.394531249999999,
-              51.862923913606224
-            ],
-            [
-              4.394531249999999,
-              51.890053935216926
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2019_06",
-        "title": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2019_06",
-        "datetime": "2019-06-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1049E-1370N_4196_2710_13_2019_06/sn7_train_labels_L15-1049E-1370N_4196_2710_13_2019_06.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        4.394531249999999,
-        51.862923913606224,
-        4.4384765624938955,
-        51.890053935216926
-      ]
-    },
-    {
-      "type": "Feature",
       "id": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2019_09",
       "geometry": {
         "coordinates": [
@@ -55799,59 +55693,6 @@
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
         "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1049E-1370N_4196_2710_13_2019_09/sn7_train_labels_L15-1049E-1370N_4196_2710_13_2019_09.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        4.394531249999999,
-        51.862923913606224,
-        4.4384765624938955,
-        51.890053935216926
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2019_10",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              4.394531249999999,
-              51.890053935216926
-            ],
-            [
-              4.4384765624938955,
-              51.890053935216926
-            ],
-            [
-              4.4384765624938955,
-              51.862923913606224
-            ],
-            [
-              4.394531249999999,
-              51.862923913606224
-            ],
-            [
-              4.394531249999999,
-              51.890053935216926
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2019_10",
-        "title": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2019_10",
-        "datetime": "2019-10-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1049E-1370N_4196_2710_13_2019_10/sn7_train_labels_L15-1049E-1370N_4196_2710_13_2019_10.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
@@ -55958,59 +55799,6 @@
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
         "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1049E-1370N_4196_2710_13_2019_12/sn7_train_labels_L15-1049E-1370N_4196_2710_13_2019_12.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        4.394531249999999,
-        51.862923913606224,
-        4.4384765624938955,
-        51.890053935216926
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2020_01",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              4.394531249999999,
-              51.890053935216926
-            ],
-            [
-              4.4384765624938955,
-              51.890053935216926
-            ],
-            [
-              4.4384765624938955,
-              51.862923913606224
-            ],
-            [
-              4.394531249999999,
-              51.862923913606224
-            ],
-            [
-              4.394531249999999,
-              51.890053935216926
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2020_01",
-        "title": "sn7_train_labels_L15-1049E-1370N_4196_2710_13_2020_01",
-        "datetime": "2020-01-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1049E-1370N_4196_2710_13_2020_01/sn7_train_labels_L15-1049E-1370N_4196_2710_13_2020_01.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
@@ -57615,59 +57403,6 @@
     },
     {
       "type": "Feature",
-      "id": "sn7_train_labels_L15-1172E-1306N_4688_2967_13_2018_08",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              26.015625,
-              44.37098696297172
-            ],
-            [
-              26.059570312493896,
-              44.37098696297172
-            ],
-            [
-              26.059570312493896,
-              44.3395652481015
-            ],
-            [
-              26.015625,
-              44.3395652481015
-            ],
-            [
-              26.015625,
-              44.37098696297172
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1172E-1306N_4688_2967_13_2018_08",
-        "title": "sn7_train_labels_L15-1172E-1306N_4688_2967_13_2018_08",
-        "datetime": "2018-08-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1172E-1306N_4688_2967_13_2018_08/sn7_train_labels_L15-1172E-1306N_4688_2967_13_2018_08.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        26.015625,
-        44.3395652481015,
-        26.059570312493896,
-        44.37098696297172
-      ]
-    },
-    {
-      "type": "Feature",
       "id": "sn7_train_labels_L15-1172E-1306N_4688_2967_13_2018_09",
       "geometry": {
         "coordinates": [
@@ -57933,59 +57668,6 @@
     },
     {
       "type": "Feature",
-      "id": "sn7_train_labels_L15-1172E-1306N_4688_2967_13_2019_03",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              26.015625,
-              44.37098696297172
-            ],
-            [
-              26.059570312493896,
-              44.37098696297172
-            ],
-            [
-              26.059570312493896,
-              44.3395652481015
-            ],
-            [
-              26.015625,
-              44.3395652481015
-            ],
-            [
-              26.015625,
-              44.37098696297172
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1172E-1306N_4688_2967_13_2019_03",
-        "title": "sn7_train_labels_L15-1172E-1306N_4688_2967_13_2019_03",
-        "datetime": "2019-03-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1172E-1306N_4688_2967_13_2019_03/sn7_train_labels_L15-1172E-1306N_4688_2967_13_2019_03.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        26.015625,
-        44.3395652481015,
-        26.059570312493896,
-        44.37098696297172
-      ]
-    },
-    {
-      "type": "Feature",
       "id": "sn7_train_labels_L15-1172E-1306N_4688_2967_13_2019_04",
       "geometry": {
         "coordinates": [
@@ -58039,7 +57721,7 @@
     },
     {
       "type": "Feature",
-      "id": "sn7_train_labels_L15-1172E-1306N_4688_2967_13_2019_06",
+      "id": "sn7_train_labels_L15-1172E-1306N_4688_2967_13_2019_05",
       "geometry": {
         "coordinates": [
           [
@@ -58068,16 +57750,16 @@
         "type": "Polygon"
       },
       "properties": {
-        "id": "sn7_train_labels_L15-1172E-1306N_4688_2967_13_2019_06",
-        "title": "sn7_train_labels_L15-1172E-1306N_4688_2967_13_2019_06",
-        "datetime": "2019-06-01T00:00:00Z",
+        "id": "sn7_train_labels_L15-1172E-1306N_4688_2967_13_2019_05",
+        "title": "sn7_train_labels_L15-1172E-1306N_4688_2967_13_2019_05",
+        "datetime": "2019-05-01T00:00:00Z",
         "start_datetime": null,
         "end_datetime": null,
         "collection": "sn7_train_labels",
         "collection_title": "SpaceNet 7 Training Labels",
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1172E-1306N_4688_2967_13_2019_06/sn7_train_labels_L15-1172E-1306N_4688_2967_13_2019_06.json",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1172E-1306N_4688_2967_13_2019_05/sn7_train_labels_L15-1172E-1306N_4688_2967_13_2019_05.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
@@ -58145,7 +57827,7 @@
     },
     {
       "type": "Feature",
-      "id": "sn7_train_labels_L15-1172E-1306N_4688_2967_13_2019_09",
+      "id": "sn7_train_labels_L15-1172E-1306N_4688_2967_13_2019_10",
       "geometry": {
         "coordinates": [
           [
@@ -58174,69 +57856,16 @@
         "type": "Polygon"
       },
       "properties": {
-        "id": "sn7_train_labels_L15-1172E-1306N_4688_2967_13_2019_09",
-        "title": "sn7_train_labels_L15-1172E-1306N_4688_2967_13_2019_09",
-        "datetime": "2019-09-01T00:00:00Z",
+        "id": "sn7_train_labels_L15-1172E-1306N_4688_2967_13_2019_10",
+        "title": "sn7_train_labels_L15-1172E-1306N_4688_2967_13_2019_10",
+        "datetime": "2019-10-01T00:00:00Z",
         "start_datetime": null,
         "end_datetime": null,
         "collection": "sn7_train_labels",
         "collection_title": "SpaceNet 7 Training Labels",
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1172E-1306N_4688_2967_13_2019_09/sn7_train_labels_L15-1172E-1306N_4688_2967_13_2019_09.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        26.015625,
-        44.3395652481015,
-        26.059570312493896,
-        44.37098696297172
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "sn7_train_labels_L15-1172E-1306N_4688_2967_13_2019_11",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              26.015625,
-              44.37098696297172
-            ],
-            [
-              26.059570312493896,
-              44.37098696297172
-            ],
-            [
-              26.059570312493896,
-              44.3395652481015
-            ],
-            [
-              26.015625,
-              44.3395652481015
-            ],
-            [
-              26.015625,
-              44.37098696297172
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1172E-1306N_4688_2967_13_2019_11",
-        "title": "sn7_train_labels_L15-1172E-1306N_4688_2967_13_2019_11",
-        "datetime": "2019-11-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1172E-1306N_4688_2967_13_2019_11/sn7_train_labels_L15-1172E-1306N_4688_2967_13_2019_11.json",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1172E-1306N_4688_2967_13_2019_10/sn7_train_labels_L15-1172E-1306N_4688_2967_13_2019_10.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
@@ -63021,6 +62650,59 @@
     },
     {
       "type": "Feature",
+      "id": "sn7_train_labels_L15-1204E-1202N_4816_3380_13_2018_10",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              31.640624995661685,
+              29.99300228081488
+            ],
+            [
+              31.684570308155585,
+              29.99300228081488
+            ],
+            [
+              31.684570308155585,
+              29.954934545923802
+            ],
+            [
+              31.640624995661685,
+              29.954934545923802
+            ],
+            [
+              31.640624995661685,
+              29.99300228081488
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "sn7_train_labels_L15-1204E-1202N_4816_3380_13_2018_10",
+        "title": "sn7_train_labels_L15-1204E-1202N_4816_3380_13_2018_10",
+        "datetime": "2018-10-01T00:00:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "sn7_train_labels",
+        "collection_title": "SpaceNet 7 Training Labels",
+        "catalog_id": "spacenet7",
+        "catalog_title": "Spacenet 7 Data & Labels",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1204E-1202N_4816_3380_13_2018_10/sn7_train_labels_L15-1204E-1202N_4816_3380_13_2018_10.json",
+        "asset_count": 1,
+        "asset_keys": [
+          "labels"
+        ]
+      },
+      "bbox": [
+        31.640624995661685,
+        29.954934545923802,
+        31.684570308155585,
+        29.99300228081488
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "sn7_train_labels_L15-1204E-1202N_4816_3380_13_2018_11",
       "geometry": {
         "coordinates": [
@@ -63445,6 +63127,59 @@
     },
     {
       "type": "Feature",
+      "id": "sn7_train_labels_L15-1204E-1202N_4816_3380_13_2019_07",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              31.640624995661685,
+              29.99300228081488
+            ],
+            [
+              31.684570308155585,
+              29.99300228081488
+            ],
+            [
+              31.684570308155585,
+              29.954934545923802
+            ],
+            [
+              31.640624995661685,
+              29.954934545923802
+            ],
+            [
+              31.640624995661685,
+              29.99300228081488
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "sn7_train_labels_L15-1204E-1202N_4816_3380_13_2019_07",
+        "title": "sn7_train_labels_L15-1204E-1202N_4816_3380_13_2019_07",
+        "datetime": "2019-07-01T00:00:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "sn7_train_labels",
+        "collection_title": "SpaceNet 7 Training Labels",
+        "catalog_id": "spacenet7",
+        "catalog_title": "Spacenet 7 Data & Labels",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1204E-1202N_4816_3380_13_2019_07/sn7_train_labels_L15-1204E-1202N_4816_3380_13_2019_07.json",
+        "asset_count": 1,
+        "asset_keys": [
+          "labels"
+        ]
+      },
+      "bbox": [
+        31.640624995661685,
+        29.954934545923802,
+        31.684570308155585,
+        29.99300228081488
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "sn7_train_labels_L15-1204E-1202N_4816_3380_13_2019_08",
       "geometry": {
         "coordinates": [
@@ -63498,7 +63233,60 @@
     },
     {
       "type": "Feature",
-      "id": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2018_03",
+      "id": "sn7_train_labels_L15-1204E-1202N_4816_3380_13_2019_09",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              31.640624995661685,
+              29.99300228081488
+            ],
+            [
+              31.684570308155585,
+              29.99300228081488
+            ],
+            [
+              31.684570308155585,
+              29.954934545923802
+            ],
+            [
+              31.640624995661685,
+              29.954934545923802
+            ],
+            [
+              31.640624995661685,
+              29.99300228081488
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "sn7_train_labels_L15-1204E-1202N_4816_3380_13_2019_09",
+        "title": "sn7_train_labels_L15-1204E-1202N_4816_3380_13_2019_09",
+        "datetime": "2019-09-01T00:00:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "sn7_train_labels",
+        "collection_title": "SpaceNet 7 Training Labels",
+        "catalog_id": "spacenet7",
+        "catalog_title": "Spacenet 7 Data & Labels",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1204E-1202N_4816_3380_13_2019_09/sn7_train_labels_L15-1204E-1202N_4816_3380_13_2019_09.json",
+        "asset_count": 1,
+        "asset_keys": [
+          "labels"
+        ]
+      },
+      "bbox": [
+        31.640624995661685,
+        29.954934545923802,
+        31.684570308155585,
+        29.99300228081488
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2018_01",
       "geometry": {
         "coordinates": [
           [
@@ -63527,16 +63315,16 @@
         "type": "Polygon"
       },
       "properties": {
-        "id": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2018_03",
-        "title": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2018_03",
-        "datetime": "2018-03-01T00:00:00Z",
+        "id": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2018_01",
+        "title": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2018_01",
+        "datetime": "2018-01-01T00:00:00Z",
         "start_datetime": null,
         "end_datetime": null,
         "collection": "sn7_train_labels",
         "collection_title": "SpaceNet 7 Training Labels",
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1204E-1204N_4819_3372_13_2018_03/sn7_train_labels_L15-1204E-1204N_4819_3372_13_2018_03.json",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1204E-1204N_4819_3372_13_2018_01/sn7_train_labels_L15-1204E-1204N_4819_3372_13_2018_01.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
@@ -63643,59 +63431,6 @@
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
         "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1204E-1204N_4819_3372_13_2018_07/sn7_train_labels_L15-1204E-1204N_4819_3372_13_2018_07.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        31.772460937499996,
-        30.259104271587514,
-        31.81636333464966,
-        30.297017883372032
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2018_08",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              31.772460937499996,
-              30.297017883372032
-            ],
-            [
-              31.81636333464966,
-              30.297017883372032
-            ],
-            [
-              31.81636333464966,
-              30.259104271587514
-            ],
-            [
-              31.772460937499996,
-              30.259104271587514
-            ],
-            [
-              31.772460937499996,
-              30.297017883372032
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2018_08",
-        "title": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2018_08",
-        "datetime": "2018-08-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1204E-1204N_4819_3372_13_2018_08/sn7_train_labels_L15-1204E-1204N_4819_3372_13_2018_08.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
@@ -63922,59 +63657,6 @@
     },
     {
       "type": "Feature",
-      "id": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_02",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              31.772460937499996,
-              30.297017883372032
-            ],
-            [
-              31.81636333464966,
-              30.297017883372032
-            ],
-            [
-              31.81636333464966,
-              30.259104271587514
-            ],
-            [
-              31.772460937499996,
-              30.259104271587514
-            ],
-            [
-              31.772460937499996,
-              30.297017883372032
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_02",
-        "title": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_02",
-        "datetime": "2019-02-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_02/sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_02.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        31.772460937499996,
-        30.259104271587514,
-        31.81636333464966,
-        30.297017883372032
-      ]
-    },
-    {
-      "type": "Feature",
       "id": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_03",
       "geometry": {
         "coordinates": [
@@ -64014,271 +63696,6 @@
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
         "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_03/sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_03.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        31.772460937499996,
-        30.259104271587514,
-        31.81636333464966,
-        30.297017883372032
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_04",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              31.772460937499996,
-              30.297017883372032
-            ],
-            [
-              31.81636333464966,
-              30.297017883372032
-            ],
-            [
-              31.81636333464966,
-              30.259104271587514
-            ],
-            [
-              31.772460937499996,
-              30.259104271587514
-            ],
-            [
-              31.772460937499996,
-              30.297017883372032
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_04",
-        "title": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_04",
-        "datetime": "2019-04-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_04/sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_04.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        31.772460937499996,
-        30.259104271587514,
-        31.81636333464966,
-        30.297017883372032
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_05",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              31.772460937499996,
-              30.297017883372032
-            ],
-            [
-              31.81636333464966,
-              30.297017883372032
-            ],
-            [
-              31.81636333464966,
-              30.259104271587514
-            ],
-            [
-              31.772460937499996,
-              30.259104271587514
-            ],
-            [
-              31.772460937499996,
-              30.297017883372032
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_05",
-        "title": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_05",
-        "datetime": "2019-05-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_05/sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_05.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        31.772460937499996,
-        30.259104271587514,
-        31.81636333464966,
-        30.297017883372032
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_06",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              31.772460937499996,
-              30.297017883372032
-            ],
-            [
-              31.81636333464966,
-              30.297017883372032
-            ],
-            [
-              31.81636333464966,
-              30.259104271587514
-            ],
-            [
-              31.772460937499996,
-              30.259104271587514
-            ],
-            [
-              31.772460937499996,
-              30.297017883372032
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_06",
-        "title": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_06",
-        "datetime": "2019-06-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_06/sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_06.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        31.772460937499996,
-        30.259104271587514,
-        31.81636333464966,
-        30.297017883372032
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_07",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              31.772460937499996,
-              30.297017883372032
-            ],
-            [
-              31.81636333464966,
-              30.297017883372032
-            ],
-            [
-              31.81636333464966,
-              30.259104271587514
-            ],
-            [
-              31.772460937499996,
-              30.259104271587514
-            ],
-            [
-              31.772460937499996,
-              30.297017883372032
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_07",
-        "title": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_07",
-        "datetime": "2019-07-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_07/sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_07.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        31.772460937499996,
-        30.259104271587514,
-        31.81636333464966,
-        30.297017883372032
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_08",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              31.772460937499996,
-              30.297017883372032
-            ],
-            [
-              31.81636333464966,
-              30.297017883372032
-            ],
-            [
-              31.81636333464966,
-              30.259104271587514
-            ],
-            [
-              31.772460937499996,
-              30.259104271587514
-            ],
-            [
-              31.772460937499996,
-              30.297017883372032
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_08",
-        "title": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_08",
-        "datetime": "2019-08-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_08/sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_08.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
@@ -64399,7 +63816,7 @@
     },
     {
       "type": "Feature",
-      "id": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_11",
+      "id": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2020_01",
       "geometry": {
         "coordinates": [
           [
@@ -64428,69 +63845,16 @@
         "type": "Polygon"
       },
       "properties": {
-        "id": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_11",
-        "title": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_11",
-        "datetime": "2019-11-01T00:00:00Z",
+        "id": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2020_01",
+        "title": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2020_01",
+        "datetime": "2020-01-01T00:00:00Z",
         "start_datetime": null,
         "end_datetime": null,
         "collection": "sn7_train_labels",
         "collection_title": "SpaceNet 7 Training Labels",
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_11/sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_11.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        31.772460937499996,
-        30.259104271587514,
-        31.81636333464966,
-        30.297017883372032
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_12",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              31.772460937499996,
-              30.297017883372032
-            ],
-            [
-              31.81636333464966,
-              30.297017883372032
-            ],
-            [
-              31.81636333464966,
-              30.259104271587514
-            ],
-            [
-              31.772460937499996,
-              30.259104271587514
-            ],
-            [
-              31.772460937499996,
-              30.297017883372032
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_12",
-        "title": "sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_12",
-        "datetime": "2019-12-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_12/sn7_train_labels_L15-1204E-1204N_4819_3372_13_2019_12.json",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1204E-1204N_4819_3372_13_2020_01/sn7_train_labels_L15-1204E-1204N_4819_3372_13_2020_01.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
@@ -66042,6 +65406,112 @@
     },
     {
       "type": "Feature",
+      "id": "sn7_train_labels_L15-1210E-1025N_4840_4088_13_2018_06",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              32.6953125,
+              0.35156029399226024
+            ],
+            [
+              32.739257812493896,
+              0.35156029399226024
+            ],
+            [
+              32.739257812493896,
+              0.307615709649998
+            ],
+            [
+              32.6953125,
+              0.307615709649998
+            ],
+            [
+              32.6953125,
+              0.35156029399226024
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "sn7_train_labels_L15-1210E-1025N_4840_4088_13_2018_06",
+        "title": "sn7_train_labels_L15-1210E-1025N_4840_4088_13_2018_06",
+        "datetime": "2018-06-01T00:00:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "sn7_train_labels",
+        "collection_title": "SpaceNet 7 Training Labels",
+        "catalog_id": "spacenet7",
+        "catalog_title": "Spacenet 7 Data & Labels",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1210E-1025N_4840_4088_13_2018_06/sn7_train_labels_L15-1210E-1025N_4840_4088_13_2018_06.json",
+        "asset_count": 1,
+        "asset_keys": [
+          "labels"
+        ]
+      },
+      "bbox": [
+        32.6953125,
+        0.307615709649998,
+        32.739257812493896,
+        0.35156029399226024
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sn7_train_labels_L15-1210E-1025N_4840_4088_13_2018_07",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              32.6953125,
+              0.35156029399226024
+            ],
+            [
+              32.739257812493896,
+              0.35156029399226024
+            ],
+            [
+              32.739257812493896,
+              0.307615709649998
+            ],
+            [
+              32.6953125,
+              0.307615709649998
+            ],
+            [
+              32.6953125,
+              0.35156029399226024
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "sn7_train_labels_L15-1210E-1025N_4840_4088_13_2018_07",
+        "title": "sn7_train_labels_L15-1210E-1025N_4840_4088_13_2018_07",
+        "datetime": "2018-07-01T00:00:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "sn7_train_labels",
+        "collection_title": "SpaceNet 7 Training Labels",
+        "catalog_id": "spacenet7",
+        "catalog_title": "Spacenet 7 Data & Labels",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1210E-1025N_4840_4088_13_2018_07/sn7_train_labels_L15-1210E-1025N_4840_4088_13_2018_07.json",
+        "asset_count": 1,
+        "asset_keys": [
+          "labels"
+        ]
+      },
+      "bbox": [
+        32.6953125,
+        0.307615709649998,
+        32.739257812493896,
+        0.35156029399226024
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "sn7_train_labels_L15-1210E-1025N_4840_4088_13_2018_08",
       "geometry": {
         "coordinates": [
@@ -66240,6 +65710,59 @@
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
         "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1210E-1025N_4840_4088_13_2018_11/sn7_train_labels_L15-1210E-1025N_4840_4088_13_2018_11.json",
+        "asset_count": 1,
+        "asset_keys": [
+          "labels"
+        ]
+      },
+      "bbox": [
+        32.6953125,
+        0.307615709649998,
+        32.739257812493896,
+        0.35156029399226024
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sn7_train_labels_L15-1210E-1025N_4840_4088_13_2018_12",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              32.6953125,
+              0.35156029399226024
+            ],
+            [
+              32.739257812493896,
+              0.35156029399226024
+            ],
+            [
+              32.739257812493896,
+              0.307615709649998
+            ],
+            [
+              32.6953125,
+              0.307615709649998
+            ],
+            [
+              32.6953125,
+              0.35156029399226024
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "sn7_train_labels_L15-1210E-1025N_4840_4088_13_2018_12",
+        "title": "sn7_train_labels_L15-1210E-1025N_4840_4088_13_2018_12",
+        "datetime": "2018-12-01T00:00:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "sn7_train_labels",
+        "collection_title": "SpaceNet 7 Training Labels",
+        "catalog_id": "spacenet7",
+        "catalog_title": "Spacenet 7 Data & Labels",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1210E-1025N_4840_4088_13_2018_12/sn7_train_labels_L15-1210E-1025N_4840_4088_13_2018_12.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
@@ -66558,6 +66081,59 @@
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
         "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1210E-1025N_4840_4088_13_2019_06/sn7_train_labels_L15-1210E-1025N_4840_4088_13_2019_06.json",
+        "asset_count": 1,
+        "asset_keys": [
+          "labels"
+        ]
+      },
+      "bbox": [
+        32.6953125,
+        0.307615709649998,
+        32.739257812493896,
+        0.35156029399226024
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sn7_train_labels_L15-1210E-1025N_4840_4088_13_2019_07",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              32.6953125,
+              0.35156029399226024
+            ],
+            [
+              32.739257812493896,
+              0.35156029399226024
+            ],
+            [
+              32.739257812493896,
+              0.307615709649998
+            ],
+            [
+              32.6953125,
+              0.307615709649998
+            ],
+            [
+              32.6953125,
+              0.35156029399226024
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "sn7_train_labels_L15-1210E-1025N_4840_4088_13_2019_07",
+        "title": "sn7_train_labels_L15-1210E-1025N_4840_4088_13_2019_07",
+        "datetime": "2019-07-01T00:00:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "sn7_train_labels",
+        "collection_title": "SpaceNet 7 Training Labels",
+        "catalog_id": "spacenet7",
+        "catalog_title": "Spacenet 7 Data & Labels",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1210E-1025N_4840_4088_13_2019_07/sn7_train_labels_L15-1210E-1025N_4840_4088_13_2019_07.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
@@ -69593,6 +69169,59 @@
     },
     {
       "type": "Feature",
+      "id": "sn7_train_labels_L15-1296E-1198N_5184_3399_13_2018_04",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              47.8125,
+              29.267232865200878
+            ],
+            [
+              47.8564453124939,
+              29.267232865200878
+            ],
+            [
+              47.8564453124939,
+              29.228890030199548
+            ],
+            [
+              47.8125,
+              29.228890030199548
+            ],
+            [
+              47.8125,
+              29.267232865200878
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "sn7_train_labels_L15-1296E-1198N_5184_3399_13_2018_04",
+        "title": "sn7_train_labels_L15-1296E-1198N_5184_3399_13_2018_04",
+        "datetime": "2018-04-01T00:00:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "sn7_train_labels",
+        "collection_title": "SpaceNet 7 Training Labels",
+        "catalog_id": "spacenet7",
+        "catalog_title": "Spacenet 7 Data & Labels",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1296E-1198N_5184_3399_13_2018_04/sn7_train_labels_L15-1296E-1198N_5184_3399_13_2018_04.json",
+        "asset_count": 1,
+        "asset_keys": [
+          "labels"
+        ]
+      },
+      "bbox": [
+        47.8125,
+        29.228890030199548,
+        47.8564453124939,
+        29.267232865200878
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "sn7_train_labels_L15-1296E-1198N_5184_3399_13_2018_05",
       "geometry": {
         "coordinates": [
@@ -69685,59 +69314,6 @@
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
         "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1296E-1198N_5184_3399_13_2018_06/sn7_train_labels_L15-1296E-1198N_5184_3399_13_2018_06.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        47.8125,
-        29.228890030199548,
-        47.8564453124939,
-        29.267232865200878
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "sn7_train_labels_L15-1296E-1198N_5184_3399_13_2018_07",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              47.8125,
-              29.267232865200878
-            ],
-            [
-              47.8564453124939,
-              29.267232865200878
-            ],
-            [
-              47.8564453124939,
-              29.228890030199548
-            ],
-            [
-              47.8125,
-              29.228890030199548
-            ],
-            [
-              47.8125,
-              29.267232865200878
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1296E-1198N_5184_3399_13_2018_07",
-        "title": "sn7_train_labels_L15-1296E-1198N_5184_3399_13_2018_07",
-        "datetime": "2018-07-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1296E-1198N_5184_3399_13_2018_07/sn7_train_labels_L15-1296E-1198N_5184_3399_13_2018_07.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
@@ -69897,6 +69473,59 @@
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
         "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1296E-1198N_5184_3399_13_2018_10/sn7_train_labels_L15-1296E-1198N_5184_3399_13_2018_10.json",
+        "asset_count": 1,
+        "asset_keys": [
+          "labels"
+        ]
+      },
+      "bbox": [
+        47.8125,
+        29.228890030199548,
+        47.8564453124939,
+        29.267232865200878
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sn7_train_labels_L15-1296E-1198N_5184_3399_13_2018_11",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              47.8125,
+              29.267232865200878
+            ],
+            [
+              47.8564453124939,
+              29.267232865200878
+            ],
+            [
+              47.8564453124939,
+              29.228890030199548
+            ],
+            [
+              47.8125,
+              29.228890030199548
+            ],
+            [
+              47.8125,
+              29.267232865200878
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "sn7_train_labels_L15-1296E-1198N_5184_3399_13_2018_11",
+        "title": "sn7_train_labels_L15-1296E-1198N_5184_3399_13_2018_11",
+        "datetime": "2018-11-01T00:00:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "sn7_train_labels",
+        "collection_title": "SpaceNet 7 Training Labels",
+        "catalog_id": "spacenet7",
+        "catalog_title": "Spacenet 7 Data & Labels",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1296E-1198N_5184_3399_13_2018_11/sn7_train_labels_L15-1296E-1198N_5184_3399_13_2018_11.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
@@ -70176,6 +69805,59 @@
     },
     {
       "type": "Feature",
+      "id": "sn7_train_labels_L15-1296E-1198N_5184_3399_13_2019_05",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              47.8125,
+              29.267232865200878
+            ],
+            [
+              47.8564453124939,
+              29.267232865200878
+            ],
+            [
+              47.8564453124939,
+              29.228890030199548
+            ],
+            [
+              47.8125,
+              29.228890030199548
+            ],
+            [
+              47.8125,
+              29.267232865200878
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "sn7_train_labels_L15-1296E-1198N_5184_3399_13_2019_05",
+        "title": "sn7_train_labels_L15-1296E-1198N_5184_3399_13_2019_05",
+        "datetime": "2019-05-01T00:00:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "sn7_train_labels",
+        "collection_title": "SpaceNet 7 Training Labels",
+        "catalog_id": "spacenet7",
+        "catalog_title": "Spacenet 7 Data & Labels",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1296E-1198N_5184_3399_13_2019_05/sn7_train_labels_L15-1296E-1198N_5184_3399_13_2019_05.json",
+        "asset_count": 1,
+        "asset_keys": [
+          "labels"
+        ]
+      },
+      "bbox": [
+        47.8125,
+        29.228890030199548,
+        47.8564453124939,
+        29.267232865200878
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "sn7_train_labels_L15-1296E-1198N_5184_3399_13_2019_06",
       "geometry": {
         "coordinates": [
@@ -70374,6 +70056,112 @@
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
         "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1296E-1198N_5184_3399_13_2019_09/sn7_train_labels_L15-1296E-1198N_5184_3399_13_2019_09.json",
+        "asset_count": 1,
+        "asset_keys": [
+          "labels"
+        ]
+      },
+      "bbox": [
+        47.8125,
+        29.228890030199548,
+        47.8564453124939,
+        29.267232865200878
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sn7_train_labels_L15-1296E-1198N_5184_3399_13_2019_10",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              47.8125,
+              29.267232865200878
+            ],
+            [
+              47.8564453124939,
+              29.267232865200878
+            ],
+            [
+              47.8564453124939,
+              29.228890030199548
+            ],
+            [
+              47.8125,
+              29.228890030199548
+            ],
+            [
+              47.8125,
+              29.267232865200878
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "sn7_train_labels_L15-1296E-1198N_5184_3399_13_2019_10",
+        "title": "sn7_train_labels_L15-1296E-1198N_5184_3399_13_2019_10",
+        "datetime": "2019-10-01T00:00:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "sn7_train_labels",
+        "collection_title": "SpaceNet 7 Training Labels",
+        "catalog_id": "spacenet7",
+        "catalog_title": "Spacenet 7 Data & Labels",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1296E-1198N_5184_3399_13_2019_10/sn7_train_labels_L15-1296E-1198N_5184_3399_13_2019_10.json",
+        "asset_count": 1,
+        "asset_keys": [
+          "labels"
+        ]
+      },
+      "bbox": [
+        47.8125,
+        29.228890030199548,
+        47.8564453124939,
+        29.267232865200878
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sn7_train_labels_L15-1296E-1198N_5184_3399_13_2019_11",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              47.8125,
+              29.267232865200878
+            ],
+            [
+              47.8564453124939,
+              29.267232865200878
+            ],
+            [
+              47.8564453124939,
+              29.228890030199548
+            ],
+            [
+              47.8125,
+              29.228890030199548
+            ],
+            [
+              47.8125,
+              29.267232865200878
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "sn7_train_labels_L15-1296E-1198N_5184_3399_13_2019_11",
+        "title": "sn7_train_labels_L15-1296E-1198N_5184_3399_13_2019_11",
+        "datetime": "2019-11-01T00:00:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "sn7_train_labels",
+        "collection_title": "SpaceNet 7 Training Labels",
+        "catalog_id": "spacenet7",
+        "catalog_title": "Spacenet 7 Data & Labels",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1296E-1198N_5184_3399_13_2019_11/sn7_train_labels_L15-1296E-1198N_5184_3399_13_2019_11.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
@@ -74469,59 +74257,6 @@
     },
     {
       "type": "Feature",
-      "id": "sn7_train_labels_L15-1438E-1134N_5753_3655_13_2018_04",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              72.8173828125,
-              19.020577110966798
-            ],
-            [
-              72.8613281249939,
-              19.020577110966798
-            ],
-            [
-              72.8613281249939,
-              18.979025953261033
-            ],
-            [
-              72.8173828125,
-              18.979025953261033
-            ],
-            [
-              72.8173828125,
-              19.020577110966798
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1438E-1134N_5753_3655_13_2018_04",
-        "title": "sn7_train_labels_L15-1438E-1134N_5753_3655_13_2018_04",
-        "datetime": "2018-04-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1438E-1134N_5753_3655_13_2018_04/sn7_train_labels_L15-1438E-1134N_5753_3655_13_2018_04.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        72.8173828125,
-        18.979025953261033,
-        72.8613281249939,
-        19.020577110966798
-      ]
-    },
-    {
-      "type": "Feature",
       "id": "sn7_train_labels_L15-1438E-1134N_5753_3655_13_2018_05",
       "geometry": {
         "coordinates": [
@@ -74628,59 +74363,6 @@
     },
     {
       "type": "Feature",
-      "id": "sn7_train_labels_L15-1438E-1134N_5753_3655_13_2018_09",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              72.8173828125,
-              19.020577110966798
-            ],
-            [
-              72.8613281249939,
-              19.020577110966798
-            ],
-            [
-              72.8613281249939,
-              18.979025953261033
-            ],
-            [
-              72.8173828125,
-              18.979025953261033
-            ],
-            [
-              72.8173828125,
-              19.020577110966798
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1438E-1134N_5753_3655_13_2018_09",
-        "title": "sn7_train_labels_L15-1438E-1134N_5753_3655_13_2018_09",
-        "datetime": "2018-09-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1438E-1134N_5753_3655_13_2018_09/sn7_train_labels_L15-1438E-1134N_5753_3655_13_2018_09.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        72.8173828125,
-        18.979025953261033,
-        72.8613281249939,
-        19.020577110966798
-      ]
-    },
-    {
-      "type": "Feature",
       "id": "sn7_train_labels_L15-1438E-1134N_5753_3655_13_2018_10",
       "geometry": {
         "coordinates": [
@@ -74720,6 +74402,59 @@
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
         "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1438E-1134N_5753_3655_13_2018_10/sn7_train_labels_L15-1438E-1134N_5753_3655_13_2018_10.json",
+        "asset_count": 1,
+        "asset_keys": [
+          "labels"
+        ]
+      },
+      "bbox": [
+        72.8173828125,
+        18.979025953261033,
+        72.8613281249939,
+        19.020577110966798
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sn7_train_labels_L15-1438E-1134N_5753_3655_13_2018_11",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.8173828125,
+              19.020577110966798
+            ],
+            [
+              72.8613281249939,
+              19.020577110966798
+            ],
+            [
+              72.8613281249939,
+              18.979025953261033
+            ],
+            [
+              72.8173828125,
+              18.979025953261033
+            ],
+            [
+              72.8173828125,
+              19.020577110966798
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "sn7_train_labels_L15-1438E-1134N_5753_3655_13_2018_11",
+        "title": "sn7_train_labels_L15-1438E-1134N_5753_3655_13_2018_11",
+        "datetime": "2018-11-01T00:00:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "sn7_train_labels",
+        "collection_title": "SpaceNet 7 Training Labels",
+        "catalog_id": "spacenet7",
+        "catalog_title": "Spacenet 7 Data & Labels",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1438E-1134N_5753_3655_13_2018_11/sn7_train_labels_L15-1438E-1134N_5753_3655_13_2018_11.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
@@ -74840,6 +74575,59 @@
     },
     {
       "type": "Feature",
+      "id": "sn7_train_labels_L15-1438E-1134N_5753_3655_13_2019_02",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              72.8173828125,
+              19.020577110966798
+            ],
+            [
+              72.8613281249939,
+              19.020577110966798
+            ],
+            [
+              72.8613281249939,
+              18.979025953261033
+            ],
+            [
+              72.8173828125,
+              18.979025953261033
+            ],
+            [
+              72.8173828125,
+              19.020577110966798
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "sn7_train_labels_L15-1438E-1134N_5753_3655_13_2019_02",
+        "title": "sn7_train_labels_L15-1438E-1134N_5753_3655_13_2019_02",
+        "datetime": "2019-02-01T00:00:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "sn7_train_labels",
+        "collection_title": "SpaceNet 7 Training Labels",
+        "catalog_id": "spacenet7",
+        "catalog_title": "Spacenet 7 Data & Labels",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1438E-1134N_5753_3655_13_2019_02/sn7_train_labels_L15-1438E-1134N_5753_3655_13_2019_02.json",
+        "asset_count": 1,
+        "asset_keys": [
+          "labels"
+        ]
+      },
+      "bbox": [
+        72.8173828125,
+        18.979025953261033,
+        72.8613281249939,
+        19.020577110966798
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "sn7_train_labels_L15-1438E-1134N_5753_3655_13_2019_03",
       "geometry": {
         "coordinates": [
@@ -74932,59 +74720,6 @@
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
         "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1438E-1134N_5753_3655_13_2019_04/sn7_train_labels_L15-1438E-1134N_5753_3655_13_2019_04.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        72.8173828125,
-        18.979025953261033,
-        72.8613281249939,
-        19.020577110966798
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "sn7_train_labels_L15-1438E-1134N_5753_3655_13_2019_05",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              72.8173828125,
-              19.020577110966798
-            ],
-            [
-              72.8613281249939,
-              19.020577110966798
-            ],
-            [
-              72.8613281249939,
-              18.979025953261033
-            ],
-            [
-              72.8173828125,
-              18.979025953261033
-            ],
-            [
-              72.8173828125,
-              19.020577110966798
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1438E-1134N_5753_3655_13_2019_05",
-        "title": "sn7_train_labels_L15-1438E-1134N_5753_3655_13_2019_05",
-        "datetime": "2019-05-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1438E-1134N_5753_3655_13_2019_05/sn7_train_labels_L15-1438E-1134N_5753_3655_13_2019_05.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
@@ -75197,59 +74932,6 @@
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
         "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1438E-1134N_5753_3655_13_2019_12/sn7_train_labels_L15-1438E-1134N_5753_3655_13_2019_12.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        72.8173828125,
-        18.979025953261033,
-        72.8613281249939,
-        19.020577110966798
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "sn7_train_labels_L15-1438E-1134N_5753_3655_13_2020_01",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              72.8173828125,
-              19.020577110966798
-            ],
-            [
-              72.8613281249939,
-              19.020577110966798
-            ],
-            [
-              72.8613281249939,
-              18.979025953261033
-            ],
-            [
-              72.8173828125,
-              18.979025953261033
-            ],
-            [
-              72.8173828125,
-              19.020577110966798
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1438E-1134N_5753_3655_13_2020_01",
-        "title": "sn7_train_labels_L15-1438E-1134N_5753_3655_13_2020_01",
-        "datetime": "2020-01-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1438E-1134N_5753_3655_13_2020_01/sn7_train_labels_L15-1438E-1134N_5753_3655_13_2020_01.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
@@ -76271,59 +75953,6 @@
     },
     {
       "type": "Feature",
-      "id": "sn7_train_labels_L15-1479E-1101N_5916_3785_13_2018_02",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              79.98046874999997,
-              13.539200668930818
-            ],
-            [
-              80.02441406249386,
-              13.539200668930818
-            ],
-            [
-              80.02441406249386,
-              13.496472765764894
-            ],
-            [
-              79.98046874999997,
-              13.496472765764894
-            ],
-            [
-              79.98046874999997,
-              13.539200668930818
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1479E-1101N_5916_3785_13_2018_02",
-        "title": "sn7_train_labels_L15-1479E-1101N_5916_3785_13_2018_02",
-        "datetime": "2018-02-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1479E-1101N_5916_3785_13_2018_02/sn7_train_labels_L15-1479E-1101N_5916_3785_13_2018_02.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        79.98046874999997,
-        13.496472765764894,
-        80.02441406249386,
-        13.539200668930818
-      ]
-    },
-    {
-      "type": "Feature",
       "id": "sn7_train_labels_L15-1479E-1101N_5916_3785_13_2018_03",
       "geometry": {
         "coordinates": [
@@ -76416,112 +76045,6 @@
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
         "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1479E-1101N_5916_3785_13_2018_05/sn7_train_labels_L15-1479E-1101N_5916_3785_13_2018_05.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        79.98046874999997,
-        13.496472765764894,
-        80.02441406249386,
-        13.539200668930818
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "sn7_train_labels_L15-1479E-1101N_5916_3785_13_2018_06",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              79.98046874999997,
-              13.539200668930818
-            ],
-            [
-              80.02441406249386,
-              13.539200668930818
-            ],
-            [
-              80.02441406249386,
-              13.496472765764894
-            ],
-            [
-              79.98046874999997,
-              13.496472765764894
-            ],
-            [
-              79.98046874999997,
-              13.539200668930818
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1479E-1101N_5916_3785_13_2018_06",
-        "title": "sn7_train_labels_L15-1479E-1101N_5916_3785_13_2018_06",
-        "datetime": "2018-06-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1479E-1101N_5916_3785_13_2018_06/sn7_train_labels_L15-1479E-1101N_5916_3785_13_2018_06.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        79.98046874999997,
-        13.496472765764894,
-        80.02441406249386,
-        13.539200668930818
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "sn7_train_labels_L15-1479E-1101N_5916_3785_13_2018_07",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              79.98046874999997,
-              13.539200668930818
-            ],
-            [
-              80.02441406249386,
-              13.539200668930818
-            ],
-            [
-              80.02441406249386,
-              13.496472765764894
-            ],
-            [
-              79.98046874999997,
-              13.496472765764894
-            ],
-            [
-              79.98046874999997,
-              13.539200668930818
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1479E-1101N_5916_3785_13_2018_07",
-        "title": "sn7_train_labels_L15-1479E-1101N_5916_3785_13_2018_07",
-        "datetime": "2018-07-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1479E-1101N_5916_3785_13_2018_07/sn7_train_labels_L15-1479E-1101N_5916_3785_13_2018_07.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
@@ -76695,59 +76218,6 @@
     },
     {
       "type": "Feature",
-      "id": "sn7_train_labels_L15-1479E-1101N_5916_3785_13_2018_12",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              79.98046874999997,
-              13.539200668930818
-            ],
-            [
-              80.02441406249386,
-              13.539200668930818
-            ],
-            [
-              80.02441406249386,
-              13.496472765764894
-            ],
-            [
-              79.98046874999997,
-              13.496472765764894
-            ],
-            [
-              79.98046874999997,
-              13.539200668930818
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1479E-1101N_5916_3785_13_2018_12",
-        "title": "sn7_train_labels_L15-1479E-1101N_5916_3785_13_2018_12",
-        "datetime": "2018-12-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1479E-1101N_5916_3785_13_2018_12/sn7_train_labels_L15-1479E-1101N_5916_3785_13_2018_12.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        79.98046874999997,
-        13.496472765764894,
-        80.02441406249386,
-        13.539200668930818
-      ]
-    },
-    {
-      "type": "Feature",
       "id": "sn7_train_labels_L15-1479E-1101N_5916_3785_13_2019_01",
       "geometry": {
         "coordinates": [
@@ -76801,7 +76271,7 @@
     },
     {
       "type": "Feature",
-      "id": "sn7_train_labels_L15-1479E-1101N_5916_3785_13_2019_02",
+      "id": "sn7_train_labels_L15-1479E-1101N_5916_3785_13_2019_03",
       "geometry": {
         "coordinates": [
           [
@@ -76830,16 +76300,16 @@
         "type": "Polygon"
       },
       "properties": {
-        "id": "sn7_train_labels_L15-1479E-1101N_5916_3785_13_2019_02",
-        "title": "sn7_train_labels_L15-1479E-1101N_5916_3785_13_2019_02",
-        "datetime": "2019-02-01T00:00:00Z",
+        "id": "sn7_train_labels_L15-1479E-1101N_5916_3785_13_2019_03",
+        "title": "sn7_train_labels_L15-1479E-1101N_5916_3785_13_2019_03",
+        "datetime": "2019-03-01T00:00:00Z",
         "start_datetime": null,
         "end_datetime": null,
         "collection": "sn7_train_labels",
         "collection_title": "SpaceNet 7 Training Labels",
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1479E-1101N_5916_3785_13_2019_02/sn7_train_labels_L15-1479E-1101N_5916_3785_13_2019_02.json",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1479E-1101N_5916_3785_13_2019_03/sn7_train_labels_L15-1479E-1101N_5916_3785_13_2019_03.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
@@ -76960,6 +76430,59 @@
     },
     {
       "type": "Feature",
+      "id": "sn7_train_labels_L15-1479E-1101N_5916_3785_13_2019_08",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              79.98046874999997,
+              13.539200668930818
+            ],
+            [
+              80.02441406249386,
+              13.539200668930818
+            ],
+            [
+              80.02441406249386,
+              13.496472765764894
+            ],
+            [
+              79.98046874999997,
+              13.496472765764894
+            ],
+            [
+              79.98046874999997,
+              13.539200668930818
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "sn7_train_labels_L15-1479E-1101N_5916_3785_13_2019_08",
+        "title": "sn7_train_labels_L15-1479E-1101N_5916_3785_13_2019_08",
+        "datetime": "2019-08-01T00:00:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "sn7_train_labels",
+        "collection_title": "SpaceNet 7 Training Labels",
+        "catalog_id": "spacenet7",
+        "catalog_title": "Spacenet 7 Data & Labels",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1479E-1101N_5916_3785_13_2019_08/sn7_train_labels_L15-1479E-1101N_5916_3785_13_2019_08.json",
+        "asset_count": 1,
+        "asset_keys": [
+          "labels"
+        ]
+      },
+      "bbox": [
+        79.98046874999997,
+        13.496472765764894,
+        80.02441406249386,
+        13.539200668930818
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "sn7_train_labels_L15-1479E-1101N_5916_3785_13_2019_09",
       "geometry": {
         "coordinates": [
@@ -76999,112 +76522,6 @@
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
         "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1479E-1101N_5916_3785_13_2019_09/sn7_train_labels_L15-1479E-1101N_5916_3785_13_2019_09.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        79.98046874999997,
-        13.496472765764894,
-        80.02441406249386,
-        13.539200668930818
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "sn7_train_labels_L15-1479E-1101N_5916_3785_13_2019_11",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              79.98046874999997,
-              13.539200668930818
-            ],
-            [
-              80.02441406249386,
-              13.539200668930818
-            ],
-            [
-              80.02441406249386,
-              13.496472765764894
-            ],
-            [
-              79.98046874999997,
-              13.496472765764894
-            ],
-            [
-              79.98046874999997,
-              13.539200668930818
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1479E-1101N_5916_3785_13_2019_11",
-        "title": "sn7_train_labels_L15-1479E-1101N_5916_3785_13_2019_11",
-        "datetime": "2019-11-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1479E-1101N_5916_3785_13_2019_11/sn7_train_labels_L15-1479E-1101N_5916_3785_13_2019_11.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        79.98046874999997,
-        13.496472765764894,
-        80.02441406249386,
-        13.539200668930818
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "sn7_train_labels_L15-1479E-1101N_5916_3785_13_2019_12",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              79.98046874999997,
-              13.539200668930818
-            ],
-            [
-              80.02441406249386,
-              13.539200668930818
-            ],
-            [
-              80.02441406249386,
-              13.496472765764894
-            ],
-            [
-              79.98046874999997,
-              13.496472765764894
-            ],
-            [
-              79.98046874999997,
-              13.539200668930818
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1479E-1101N_5916_3785_13_2019_12",
-        "title": "sn7_train_labels_L15-1479E-1101N_5916_3785_13_2019_12",
-        "datetime": "2019-12-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1479E-1101N_5916_3785_13_2019_12/sn7_train_labels_L15-1479E-1101N_5916_3785_13_2019_12.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
@@ -78762,7 +78179,7 @@
     },
     {
       "type": "Feature",
-      "id": "sn7_train_labels_L15-1538E-1163N_6154_3539_13_2018_10",
+      "id": "sn7_train_labels_L15-1538E-1163N_6154_3539_13_2018_12",
       "geometry": {
         "coordinates": [
           [
@@ -78791,16 +78208,16 @@
         "type": "Polygon"
       },
       "properties": {
-        "id": "sn7_train_labels_L15-1538E-1163N_6154_3539_13_2018_10",
-        "title": "sn7_train_labels_L15-1538E-1163N_6154_3539_13_2018_10",
-        "datetime": "2018-10-01T00:00:00Z",
+        "id": "sn7_train_labels_L15-1538E-1163N_6154_3539_13_2018_12",
+        "title": "sn7_train_labels_L15-1538E-1163N_6154_3539_13_2018_12",
+        "datetime": "2018-12-01T00:00:00Z",
         "start_datetime": null,
         "end_datetime": null,
         "collection": "sn7_train_labels",
         "collection_title": "SpaceNet 7 Training Labels",
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1538E-1163N_6154_3539_13_2018_10/sn7_train_labels_L15-1538E-1163N_6154_3539_13_2018_10.json",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1538E-1163N_6154_3539_13_2018_12/sn7_train_labels_L15-1538E-1163N_6154_3539_13_2018_12.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
@@ -79557,59 +78974,6 @@
     },
     {
       "type": "Feature",
-      "id": "sn7_train_labels_L15-1615E-1205N_6460_3370_13_2018_02",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              103.88671873562751,
-              30.37287518434353
-            ],
-            [
-              103.93066404812141,
-              30.37287518434353
-            ],
-            [
-              103.93066404812141,
-              30.334953878217885
-            ],
-            [
-              103.88671873562751,
-              30.334953878217885
-            ],
-            [
-              103.88671873562751,
-              30.37287518434353
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1615E-1205N_6460_3370_13_2018_02",
-        "title": "sn7_train_labels_L15-1615E-1205N_6460_3370_13_2018_02",
-        "datetime": "2018-02-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1615E-1205N_6460_3370_13_2018_02/sn7_train_labels_L15-1615E-1205N_6460_3370_13_2018_02.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        103.88671873562751,
-        30.334953878217885,
-        103.93066404812141,
-        30.37287518434353
-      ]
-    },
-    {
-      "type": "Feature",
       "id": "sn7_train_labels_L15-1615E-1205N_6460_3370_13_2018_03",
       "geometry": {
         "coordinates": [
@@ -80232,112 +79596,6 @@
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
         "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1615E-1205N_6460_3370_13_2019_03/sn7_train_labels_L15-1615E-1205N_6460_3370_13_2019_03.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        103.88671873562751,
-        30.334953878217885,
-        103.93066404812141,
-        30.37287518434353
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "sn7_train_labels_L15-1615E-1205N_6460_3370_13_2019_04",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              103.88671873562751,
-              30.37287518434353
-            ],
-            [
-              103.93066404812141,
-              30.37287518434353
-            ],
-            [
-              103.93066404812141,
-              30.334953878217885
-            ],
-            [
-              103.88671873562751,
-              30.334953878217885
-            ],
-            [
-              103.88671873562751,
-              30.37287518434353
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1615E-1205N_6460_3370_13_2019_04",
-        "title": "sn7_train_labels_L15-1615E-1205N_6460_3370_13_2019_04",
-        "datetime": "2019-04-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1615E-1205N_6460_3370_13_2019_04/sn7_train_labels_L15-1615E-1205N_6460_3370_13_2019_04.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        103.88671873562751,
-        30.334953878217885,
-        103.93066404812141,
-        30.37287518434353
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "sn7_train_labels_L15-1615E-1205N_6460_3370_13_2019_05",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              103.88671873562751,
-              30.37287518434353
-            ],
-            [
-              103.93066404812141,
-              30.37287518434353
-            ],
-            [
-              103.93066404812141,
-              30.334953878217885
-            ],
-            [
-              103.88671873562751,
-              30.334953878217885
-            ],
-            [
-              103.88671873562751,
-              30.37287518434353
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1615E-1205N_6460_3370_13_2019_05",
-        "title": "sn7_train_labels_L15-1615E-1205N_6460_3370_13_2019_05",
-        "datetime": "2019-05-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1615E-1205N_6460_3370_13_2019_05/sn7_train_labels_L15-1615E-1205N_6460_3370_13_2019_05.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
@@ -89415,112 +88673,6 @@
     },
     {
       "type": "Feature",
-      "id": "sn7_train_labels_L15-1691E-1211N_6764_3347_13_2017_07",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              117.24609373377206,
-              31.240985374160744
-            ],
-            [
-              117.29003904626596,
-              31.240985374160744
-            ],
-            [
-              117.29003904626596,
-              31.203404947060516
-            ],
-            [
-              117.24609373377206,
-              31.203404947060516
-            ],
-            [
-              117.24609373377206,
-              31.240985374160744
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1691E-1211N_6764_3347_13_2017_07",
-        "title": "sn7_train_labels_L15-1691E-1211N_6764_3347_13_2017_07",
-        "datetime": "2017-07-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1691E-1211N_6764_3347_13_2017_07/sn7_train_labels_L15-1691E-1211N_6764_3347_13_2017_07.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        117.24609373377206,
-        31.203404947060516,
-        117.29003904626596,
-        31.240985374160744
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "sn7_train_labels_L15-1691E-1211N_6764_3347_13_2017_08",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              117.24609373377206,
-              31.240985374160744
-            ],
-            [
-              117.29003904626596,
-              31.240985374160744
-            ],
-            [
-              117.29003904626596,
-              31.203404947060516
-            ],
-            [
-              117.24609373377206,
-              31.203404947060516
-            ],
-            [
-              117.24609373377206,
-              31.240985374160744
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1691E-1211N_6764_3347_13_2017_08",
-        "title": "sn7_train_labels_L15-1691E-1211N_6764_3347_13_2017_08",
-        "datetime": "2017-08-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1691E-1211N_6764_3347_13_2017_08/sn7_train_labels_L15-1691E-1211N_6764_3347_13_2017_08.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        117.24609373377206,
-        31.203404947060516,
-        117.29003904626596,
-        31.240985374160744
-      ]
-    },
-    {
-      "type": "Feature",
       "id": "sn7_train_labels_L15-1691E-1211N_6764_3347_13_2017_10",
       "geometry": {
         "coordinates": [
@@ -89613,59 +88765,6 @@
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
         "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1691E-1211N_6764_3347_13_2017_11/sn7_train_labels_L15-1691E-1211N_6764_3347_13_2017_11.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        117.24609373377206,
-        31.203404947060516,
-        117.29003904626596,
-        31.240985374160744
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_01",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              117.24609373377206,
-              31.240985374160744
-            ],
-            [
-              117.29003904626596,
-              31.240985374160744
-            ],
-            [
-              117.29003904626596,
-              31.203404947060516
-            ],
-            [
-              117.24609373377206,
-              31.203404947060516
-            ],
-            [
-              117.24609373377206,
-              31.240985374160744
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_01",
-        "title": "sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_01",
-        "datetime": "2018-01-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_01/sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_01.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
@@ -89892,218 +88991,6 @@
     },
     {
       "type": "Feature",
-      "id": "sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_06",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              117.24609373377206,
-              31.240985374160744
-            ],
-            [
-              117.29003904626596,
-              31.240985374160744
-            ],
-            [
-              117.29003904626596,
-              31.203404947060516
-            ],
-            [
-              117.24609373377206,
-              31.203404947060516
-            ],
-            [
-              117.24609373377206,
-              31.240985374160744
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_06",
-        "title": "sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_06",
-        "datetime": "2018-06-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_06/sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_06.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        117.24609373377206,
-        31.203404947060516,
-        117.29003904626596,
-        31.240985374160744
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_07",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              117.24609373377206,
-              31.240985374160744
-            ],
-            [
-              117.29003904626596,
-              31.240985374160744
-            ],
-            [
-              117.29003904626596,
-              31.203404947060516
-            ],
-            [
-              117.24609373377206,
-              31.203404947060516
-            ],
-            [
-              117.24609373377206,
-              31.240985374160744
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_07",
-        "title": "sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_07",
-        "datetime": "2018-07-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_07/sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_07.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        117.24609373377206,
-        31.203404947060516,
-        117.29003904626596,
-        31.240985374160744
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_08",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              117.24609373377206,
-              31.240985374160744
-            ],
-            [
-              117.29003904626596,
-              31.240985374160744
-            ],
-            [
-              117.29003904626596,
-              31.203404947060516
-            ],
-            [
-              117.24609373377206,
-              31.203404947060516
-            ],
-            [
-              117.24609373377206,
-              31.240985374160744
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_08",
-        "title": "sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_08",
-        "datetime": "2018-08-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_08/sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_08.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        117.24609373377206,
-        31.203404947060516,
-        117.29003904626596,
-        31.240985374160744
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_09",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              117.24609373377206,
-              31.240985374160744
-            ],
-            [
-              117.29003904626596,
-              31.240985374160744
-            ],
-            [
-              117.29003904626596,
-              31.203404947060516
-            ],
-            [
-              117.24609373377206,
-              31.203404947060516
-            ],
-            [
-              117.24609373377206,
-              31.240985374160744
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_09",
-        "title": "sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_09",
-        "datetime": "2018-09-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_09/sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_09.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        117.24609373377206,
-        31.203404947060516,
-        117.29003904626596,
-        31.240985374160744
-      ]
-    },
-    {
-      "type": "Feature",
       "id": "sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_10",
       "geometry": {
         "coordinates": [
@@ -90143,6 +89030,59 @@
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
         "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_10/sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_10.json",
+        "asset_count": 1,
+        "asset_keys": [
+          "labels"
+        ]
+      },
+      "bbox": [
+        117.24609373377206,
+        31.203404947060516,
+        117.29003904626596,
+        31.240985374160744
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_12",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              117.24609373377206,
+              31.240985374160744
+            ],
+            [
+              117.29003904626596,
+              31.240985374160744
+            ],
+            [
+              117.29003904626596,
+              31.203404947060516
+            ],
+            [
+              117.24609373377206,
+              31.203404947060516
+            ],
+            [
+              117.24609373377206,
+              31.240985374160744
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_12",
+        "title": "sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_12",
+        "datetime": "2018-12-01T00:00:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "sn7_train_labels",
+        "collection_title": "SpaceNet 7 Training Labels",
+        "catalog_id": "spacenet7",
+        "catalog_title": "Spacenet 7 Data & Labels",
+        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_12/sn7_train_labels_L15-1691E-1211N_6764_3347_13_2018_12.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
@@ -90408,59 +89348,6 @@
         "catalog_id": "spacenet7",
         "catalog_title": "Spacenet 7 Data & Labels",
         "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1691E-1211N_6764_3347_13_2019_06/sn7_train_labels_L15-1691E-1211N_6764_3347_13_2019_06.json",
-        "asset_count": 1,
-        "asset_keys": [
-          "labels"
-        ]
-      },
-      "bbox": [
-        117.24609373377206,
-        31.203404947060516,
-        117.29003904626596,
-        31.240985374160744
-      ]
-    },
-    {
-      "type": "Feature",
-      "id": "sn7_train_labels_L15-1691E-1211N_6764_3347_13_2019_07",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              117.24609373377206,
-              31.240985374160744
-            ],
-            [
-              117.29003904626596,
-              31.240985374160744
-            ],
-            [
-              117.29003904626596,
-              31.203404947060516
-            ],
-            [
-              117.24609373377206,
-              31.203404947060516
-            ],
-            [
-              117.24609373377206,
-              31.240985374160744
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "properties": {
-        "id": "sn7_train_labels_L15-1691E-1211N_6764_3347_13_2019_07",
-        "title": "sn7_train_labels_L15-1691E-1211N_6764_3347_13_2019_07",
-        "datetime": "2019-07-01T00:00:00Z",
-        "start_datetime": null,
-        "end_datetime": null,
-        "collection": "sn7_train_labels",
-        "collection_title": "SpaceNet 7 Training Labels",
-        "catalog_id": "spacenet7",
-        "catalog_title": "Spacenet 7 Data & Labels",
-        "stac_href": "https://www.planet.com/data/stac/spacenet7/sn7_train_labels/sn7_train_labels_L15-1691E-1211N_6764_3347_13_2019_07/sn7_train_labels_L15-1691E-1211N_6764_3347_13_2019_07.json",
         "asset_count": 1,
         "asset_keys": [
           "labels"
