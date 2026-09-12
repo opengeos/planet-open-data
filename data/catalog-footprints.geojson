@@ -57,40 +57,40 @@
         "coordinates": [
           [
             [
-              -112.34869931503664,
-              57.03001159556063
+              -112.30129527261124,
+              57.103204652206315
             ],
             [
-              -111.49254112341502,
-              57.03001159556063
+              -111.5141146317413,
+              57.103204652206315
             ],
             [
-              -111.49254112341502,
-              57.66563706722706
+              -111.5141146317413,
+              57.593161252967526
             ],
             [
-              -112.34869931503664,
-              57.66563706722706
+              -112.30129527261124,
+              57.593161252967526
             ],
             [
-              -112.34869931503664,
-              57.03001159556063
+              -112.30129527261124,
+              57.103204652206315
             ]
           ]
         ]
       },
       "bbox": [
-        -112.34869931503664,
-        57.03001159556063,
-        -111.49254112341502,
-        57.66563706722706
+        -112.30129527261124,
+        57.103204652206315,
+        -111.5141146317413,
+        57.593161252967526
       ],
       "properties": {
         "id": "open-canada",
         "title": "Open Canada",
         "slug": "open-canada",
         "href": "https://www.planet.com/data/stac/open-canada/catalog.json",
-        "item_count": 6647,
+        "item_count": 6704,
         "collection_count": 9,
         "geojson": "data/open-canada/footprints.geojson",
         "pmtiles": "data/open-canada/footprints.pmtiles"
@@ -184,7 +184,7 @@
         "title": "Spacenet 7 Data & Labels",
         "slug": "spacenet-7-data-labels",
         "href": "https://www.planet.com/data/stac/spacenet7/catalog.json",
-        "item_count": 3212,
+        "item_count": 3188,
         "collection_count": 3,
         "geojson": "data/spacenet-7-data-labels/footprints.geojson",
         "pmtiles": "data/spacenet-7-data-labels/footprints.pmtiles"
