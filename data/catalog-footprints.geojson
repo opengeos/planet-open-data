@@ -57,40 +57,40 @@
         "coordinates": [
           [
             [
-              -112.30129527261124,
-              57.103204652206315
+              -112.34869931503664,
+              57.03001159556063
             ],
             [
-              -111.5141146317413,
-              57.103204652206315
+              -111.49254112341502,
+              57.03001159556063
             ],
             [
-              -111.5141146317413,
-              57.593161252967526
+              -111.49254112341502,
+              57.66563706722706
             ],
             [
-              -112.30129527261124,
-              57.593161252967526
+              -112.34869931503664,
+              57.66563706722706
             ],
             [
-              -112.30129527261124,
-              57.103204652206315
+              -112.34869931503664,
+              57.03001159556063
             ]
           ]
         ]
       },
       "bbox": [
-        -112.30129527261124,
-        57.103204652206315,
-        -111.5141146317413,
-        57.593161252967526
+        -112.34869931503664,
+        57.03001159556063,
+        -111.49254112341502,
+        57.66563706722706
       ],
       "properties": {
         "id": "open-canada",
         "title": "Open Canada",
         "slug": "open-canada",
         "href": "https://www.planet.com/data/stac/open-canada/catalog.json",
-        "item_count": 6704,
+        "item_count": 6599,
         "collection_count": 9,
         "geojson": "data/open-canada/footprints.geojson",
         "pmtiles": "data/open-canada/footprints.pmtiles"
@@ -184,7 +184,7 @@
         "title": "Spacenet 7 Data & Labels",
         "slug": "spacenet-7-data-labels",
         "href": "https://www.planet.com/data/stac/spacenet7/catalog.json",
-        "item_count": 3188,
+        "item_count": 3240,
         "collection_count": 3,
         "geojson": "data/spacenet-7-data-labels/footprints.geojson",
         "pmtiles": "data/spacenet-7-data-labels/footprints.pmtiles"
@@ -325,7 +325,7 @@
         "title": "Planet Tanager Sample Products",
         "slug": "planet-tanager-sample-products",
         "href": "https://www.planet.com/data/stac/tanager-core-imagery/catalog.json",
-        "item_count": 276,
+        "item_count": 250,
         "collection_count": 9,
         "geojson": "data/planet-tanager-sample-products/footprints.geojson",
         "pmtiles": "data/planet-tanager-sample-products/footprints.pmtiles"
