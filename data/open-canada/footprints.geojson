@@ -335493,6 +335493,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250326T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250326T1330",
+        "title": "20250326T1330",
+        "datetime": "2025-03-26T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250326T1330/20250326T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250327T0000",
       "geometry": {
         "coordinates": [
@@ -335869,6 +335923,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250328T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250328T1330",
+        "title": "20250328T1330",
+        "datetime": "2025-03-28T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250328T1330/20250328T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250328_185751_68_2514",
       "geometry": {
         "coordinates": [
@@ -336090,6 +336198,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250329T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250329T0130",
+        "title": "20250329T0130",
+        "datetime": "2025-03-29T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250329T0130/20250329T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250329T0600",
       "geometry": {
         "coordinates": [
@@ -336133,6 +336295,60 @@
         "asset_keys": [
           "qf",
           "swc"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250329T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250329T1330",
+        "title": "20250329T1330",
+        "datetime": "2025-03-29T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250329T1330/20250329T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
         ]
       },
       "bbox": [
@@ -336305,6 +336521,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250330T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250330T1330",
+        "title": "20250330T1330",
+        "datetime": "2025-03-30T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250330T1330/20250330T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250331T0000",
       "geometry": {
         "coordinates": [
@@ -336354,6 +336624,60 @@
         57.46757096661965,
         -111.82994969465136,
         57.47547610495956
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250331T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250331T0130",
+        "title": "20250331T0130",
+        "datetime": "2025-03-31T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250331T0130/20250331T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
       ]
     },
     {
@@ -336519,6 +336843,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250401T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250401T0130",
+        "title": "20250401T0130",
+        "datetime": "2025-04-01T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250401T0130/20250401T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250401T0600",
       "geometry": {
         "coordinates": [
@@ -336562,6 +336940,60 @@
         "asset_keys": [
           "qf",
           "swc"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250401T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250401T1330",
+        "title": "20250401T1330",
+        "datetime": "2025-04-01T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250401T1330/20250401T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
         ]
       },
       "bbox": [
@@ -336622,6 +337054,60 @@
         57.46757096661965,
         -111.82994969465136,
         57.47547610495956
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250402T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250402T0130",
+        "title": "20250402T0130",
+        "datetime": "2025-04-02T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250402T0130/20250402T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
       ]
     },
     {
@@ -337002,6 +337488,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250404T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250404T0130",
+        "title": "20250404T0130",
+        "datetime": "2025-04-04T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250404T0130/20250404T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250404T0600",
       "geometry": {
         "coordinates": [
@@ -337045,6 +337585,60 @@
         "asset_keys": [
           "qf",
           "swc"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250404T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250404T1330",
+        "title": "20250404T1330",
+        "datetime": "2025-04-04T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250404T1330/20250404T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
         ]
       },
       "bbox": [
@@ -337324,6 +337918,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250406T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250406T0130",
+        "title": "20250406T0130",
+        "datetime": "2025-04-06T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250406T0130/20250406T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250406T0600",
       "geometry": {
         "coordinates": [
@@ -337481,6 +338129,60 @@
         57.46757096661965,
         -111.82994969465136,
         57.47547610495956
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250407T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250407T0130",
+        "title": "20250407T0130",
+        "datetime": "2025-04-07T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250407T0130/20250407T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
       ]
     },
     {
@@ -337754,6 +338456,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250408T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250408T1330",
+        "title": "20250408T1330",
+        "datetime": "2025-04-08T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250408T1330/20250408T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250409T0000",
       "geometry": {
         "coordinates": [
@@ -337915,6 +338671,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250409T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250409T1330",
+        "title": "20250409T1330",
+        "datetime": "2025-04-09T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250409T1330/20250409T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250410T0000",
       "geometry": {
         "coordinates": [
@@ -337964,6 +338774,60 @@
         57.46757096661965,
         -111.82994969465136,
         57.47547610495956
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250410T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250410T0130",
+        "title": "20250410T0130",
+        "datetime": "2025-04-10T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250410T0130/20250410T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
       ]
     },
     {
@@ -338129,6 +338993,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250411T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250411T0130",
+        "title": "20250411T0130",
+        "datetime": "2025-04-11T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250411T0130/20250411T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250411T0600",
       "geometry": {
         "coordinates": [
@@ -338172,6 +339090,60 @@
         "asset_keys": [
           "qf",
           "swc"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250411T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250411T1330",
+        "title": "20250411T1330",
+        "datetime": "2025-04-11T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250411T1330/20250411T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
         ]
       },
       "bbox": [
@@ -338451,6 +339423,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250413T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250413T0130",
+        "title": "20250413T0130",
+        "datetime": "2025-04-13T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250413T0130/20250413T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250413T0600",
       "geometry": {
         "coordinates": [
@@ -338720,6 +339746,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250414T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250414T1330",
+        "title": "20250414T1330",
+        "datetime": "2025-04-14T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250414T1330/20250414T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250415T0000",
       "geometry": {
         "coordinates": [
@@ -338773,6 +339853,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250415T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250415T0130",
+        "title": "20250415T0130",
+        "datetime": "2025-04-15T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250415T0130/20250415T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250415T0600",
       "geometry": {
         "coordinates": [
@@ -338816,6 +339950,60 @@
         "asset_keys": [
           "qf",
           "swc"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250415T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250415T1330",
+        "title": "20250415T1330",
+        "datetime": "2025-04-15T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250415T1330/20250415T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
         ]
       },
       "bbox": [
@@ -338876,6 +340064,60 @@
         57.46757096661965,
         -111.82994969465136,
         57.47547610495956
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250416T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250416T0130",
+        "title": "20250416T0130",
+        "datetime": "2025-04-16T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250416T0130/20250416T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
       ]
     },
     {
@@ -339041,6 +340283,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250417T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250417T0130",
+        "title": "20250417T0130",
+        "datetime": "2025-04-17T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250417T0130/20250417T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250417T0600",
       "geometry": {
         "coordinates": [
@@ -339084,6 +340380,60 @@
         "asset_keys": [
           "qf",
           "swc"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250417T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250417T1330",
+        "title": "20250417T1330",
+        "datetime": "2025-04-17T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250417T1330/20250417T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
         ]
       },
       "bbox": [
@@ -339578,6 +340928,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250420T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250420T0130",
+        "title": "20250420T0130",
+        "datetime": "2025-04-20T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250420T0130/20250420T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250420T0600",
       "geometry": {
         "coordinates": [
@@ -339954,6 +341358,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250422T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250422T0130",
+        "title": "20250422T0130",
+        "datetime": "2025-04-22T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250422T0130/20250422T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250422T0600",
       "geometry": {
         "coordinates": [
@@ -339997,6 +341455,60 @@
         "asset_keys": [
           "qf",
           "swc"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250422T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250422T1330",
+        "title": "20250422T1330",
+        "datetime": "2025-04-22T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250422T1330/20250422T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
         ]
       },
       "bbox": [
@@ -340373,6 +341885,60 @@
         "asset_keys": [
           "qf",
           "swc"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250424T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250424T1330",
+        "title": "20250424T1330",
+        "datetime": "2025-04-24T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250424T1330/20250424T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
         ]
       },
       "bbox": [
@@ -340867,6 +342433,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250427T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250427T0130",
+        "title": "20250427T0130",
+        "datetime": "2025-04-27T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250427T0130/20250427T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250427T0600",
       "geometry": {
         "coordinates": [
@@ -340910,6 +342530,60 @@
         "asset_keys": [
           "qf",
           "swc"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250427T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250427T1330",
+        "title": "20250427T1330",
+        "datetime": "2025-04-27T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250427T1330/20250427T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
         ]
       },
       "bbox": [
@@ -341082,6 +342756,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250428T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250428T1330",
+        "title": "20250428T1330",
+        "datetime": "2025-04-28T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250428T1330/20250428T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250429T0000",
       "geometry": {
         "coordinates": [
@@ -341131,6 +342859,60 @@
         57.46757096661965,
         -111.82994969465136,
         57.47547610495956
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250429T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250429T0130",
+        "title": "20250429T0130",
+        "datetime": "2025-04-29T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250429T0130/20250429T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
       ]
     },
     {
@@ -341296,6 +343078,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250430T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250430T0130",
+        "title": "20250430T0130",
+        "datetime": "2025-04-30T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250430T0130/20250430T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250430T0600",
       "geometry": {
         "coordinates": [
@@ -341339,6 +343175,60 @@
         "asset_keys": [
           "qf",
           "swc"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250430T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250430T1330",
+        "title": "20250430T1330",
+        "datetime": "2025-04-30T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250430T1330/20250430T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
         ]
       },
       "bbox": [
@@ -341726,6 +343616,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250502T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250502T1330",
+        "title": "20250502T1330",
+        "datetime": "2025-05-02T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250502T1330/20250502T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250503T0000",
       "geometry": {
         "coordinates": [
@@ -342102,6 +344046,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250504T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250504T1330",
+        "title": "20250504T1330",
+        "datetime": "2025-05-04T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250504T1330/20250504T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250505T0000",
       "geometry": {
         "coordinates": [
@@ -342151,6 +344149,60 @@
         57.46757096661965,
         -111.82994969465136,
         57.47547610495956
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250505T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250505T0130",
+        "title": "20250505T0130",
+        "datetime": "2025-05-05T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250505T0130/20250505T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
       ]
     },
     {
@@ -342312,6 +344364,60 @@
         57.46757096661965,
         -111.82994969465136,
         57.47547610495956
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250506T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250506T0130",
+        "title": "20250506T0130",
+        "datetime": "2025-05-06T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250506T0130/20250506T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
       ]
     },
     {
@@ -342800,6 +344906,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250508T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250508T1330",
+        "title": "20250508T1330",
+        "datetime": "2025-05-08T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250508T1330/20250508T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250509T0000",
       "geometry": {
         "coordinates": [
@@ -343176,6 +345336,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250510T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250510T1330",
+        "title": "20250510T1330",
+        "datetime": "2025-05-10T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250510T1330/20250510T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250511T0000",
       "geometry": {
         "coordinates": [
@@ -343337,6 +345551,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250511T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250511T1330",
+        "title": "20250511T1330",
+        "datetime": "2025-05-11T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250511T1330/20250511T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250512T0000",
       "geometry": {
         "coordinates": [
@@ -343390,6 +345658,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250512T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250512T0130",
+        "title": "20250512T0130",
+        "datetime": "2025-05-12T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250512T0130/20250512T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250512T0600",
       "geometry": {
         "coordinates": [
@@ -343433,6 +345755,60 @@
         "asset_keys": [
           "qf",
           "swc"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250512T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250512T1330",
+        "title": "20250512T1330",
+        "datetime": "2025-05-12T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250512T1330/20250512T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
         ]
       },
       "bbox": [
@@ -343605,6 +345981,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250513T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250513T1330",
+        "title": "20250513T1330",
+        "datetime": "2025-05-13T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250513T1330/20250513T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250514T0000",
       "geometry": {
         "coordinates": [
@@ -343658,6 +346088,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250514T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250514T0130",
+        "title": "20250514T0130",
+        "datetime": "2025-05-14T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250514T0130/20250514T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250514T0600",
       "geometry": {
         "coordinates": [
@@ -343701,6 +346185,60 @@
         "asset_keys": [
           "qf",
           "swc"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250514T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250514T1330",
+        "title": "20250514T1330",
+        "datetime": "2025-05-14T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250514T1330/20250514T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
         ]
       },
       "bbox": [
@@ -343873,6 +346411,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250515T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250515T1330",
+        "title": "20250515T1330",
+        "datetime": "2025-05-15T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250515T1330/20250515T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250516T0000",
       "geometry": {
         "coordinates": [
@@ -343926,6 +346518,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250516T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250516T0130",
+        "title": "20250516T0130",
+        "datetime": "2025-05-16T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250516T0130/20250516T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250516T0600",
       "geometry": {
         "coordinates": [
@@ -343969,6 +346615,60 @@
         "asset_keys": [
           "qf",
           "swc"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250516T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250516T1330",
+        "title": "20250516T1330",
+        "datetime": "2025-05-16T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250516T1330/20250516T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
         ]
       },
       "bbox": [
@@ -344033,6 +346733,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250517T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250517T0130",
+        "title": "20250517T0130",
+        "datetime": "2025-05-17T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250517T0130/20250517T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250517T0600",
       "geometry": {
         "coordinates": [
@@ -344076,6 +346830,60 @@
         "asset_keys": [
           "qf",
           "swc"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250517T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250517T1330",
+        "title": "20250517T1330",
+        "datetime": "2025-05-17T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250517T1330/20250517T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
         ]
       },
       "bbox": [
@@ -344237,6 +347045,60 @@
         "asset_keys": [
           "qf",
           "swc"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250518T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250518T1330",
+        "title": "20250518T1330",
+        "datetime": "2025-05-18T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250518T1330/20250518T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
         ]
       },
       "bbox": [
@@ -344516,6 +347378,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250520T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250520T0130",
+        "title": "20250520T0130",
+        "datetime": "2025-05-20T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250520T0130/20250520T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250520T0600",
       "geometry": {
         "coordinates": [
@@ -344677,6 +347593,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250521T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250521T0130",
+        "title": "20250521T0130",
+        "datetime": "2025-05-21T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250521T0130/20250521T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250521T0600",
       "geometry": {
         "coordinates": [
@@ -344720,6 +347690,60 @@
         "asset_keys": [
           "qf",
           "swc"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250521T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250521T1330",
+        "title": "20250521T1330",
+        "datetime": "2025-05-21T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250521T1330/20250521T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
         ]
       },
       "bbox": [
@@ -344784,6 +347808,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250522T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250522T0130",
+        "title": "20250522T0130",
+        "datetime": "2025-05-22T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250522T0130/20250522T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250522T0600",
       "geometry": {
         "coordinates": [
@@ -344827,6 +347905,60 @@
         "asset_keys": [
           "qf",
           "swc"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250522T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250522T1330",
+        "title": "20250522T1330",
+        "datetime": "2025-05-22T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250522T1330/20250522T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
         ]
       },
       "bbox": [
@@ -344887,6 +348019,60 @@
         57.46757096661965,
         -111.82994969465136,
         57.47547610495956
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250523T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250523T0130",
+        "title": "20250523T0130",
+        "datetime": "2025-05-23T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250523T0130/20250523T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
       ]
     },
     {
@@ -345052,6 +348238,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250524T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250524T0130",
+        "title": "20250524T0130",
+        "datetime": "2025-05-24T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250524T0130/20250524T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250524T0600",
       "geometry": {
         "coordinates": [
@@ -345095,6 +348335,60 @@
         "asset_keys": [
           "qf",
           "swc"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250524T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250524T1330",
+        "title": "20250524T1330",
+        "datetime": "2025-05-24T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250524T1330/20250524T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
         ]
       },
       "bbox": [
@@ -345267,6 +348561,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250525T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250525T1330",
+        "title": "20250525T1330",
+        "datetime": "2025-05-25T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250525T1330/20250525T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250526T0000",
       "geometry": {
         "coordinates": [
@@ -345320,6 +348668,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250526T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250526T0130",
+        "title": "20250526T0130",
+        "datetime": "2025-05-26T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250526T0130/20250526T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250526T0600",
       "geometry": {
         "coordinates": [
@@ -345363,6 +348765,60 @@
         "asset_keys": [
           "qf",
           "swc"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250526T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250526T1330",
+        "title": "20250526T1330",
+        "datetime": "2025-05-26T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250526T1330/20250526T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
         ]
       },
       "bbox": [
@@ -345535,6 +348991,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250527T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250527T1330",
+        "title": "20250527T1330",
+        "datetime": "2025-05-27T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250527T1330/20250527T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250528T0000",
       "geometry": {
         "coordinates": [
@@ -345696,6 +349206,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250528T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250528T1330",
+        "title": "20250528T1330",
+        "datetime": "2025-05-28T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250528T1330/20250528T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250529T0000",
       "geometry": {
         "coordinates": [
@@ -345745,6 +349309,60 @@
         57.46757096661965,
         -111.82994969465136,
         57.47547610495956
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250529T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250529T0130",
+        "title": "20250529T0130",
+        "datetime": "2025-05-29T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250529T0130/20250529T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
       ]
     },
     {
@@ -346448,6 +350066,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250601T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250601T1330",
+        "title": "20250601T1330",
+        "datetime": "2025-06-01T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250601T1330/20250601T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250602T0000",
       "geometry": {
         "coordinates": [
@@ -346497,6 +350169,60 @@
         57.46757096661965,
         -111.82994969465136,
         57.47547610495956
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250602T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250602T0130",
+        "title": "20250602T0130",
+        "datetime": "2025-06-02T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250602T0130/20250602T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
       ]
     },
     {
@@ -346658,6 +350384,60 @@
         57.46757096661965,
         -111.82994969465136,
         57.47547610495956
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250603T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250603T0130",
+        "title": "20250603T0130",
+        "datetime": "2025-06-03T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250603T0130/20250603T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
       ]
     },
     {
@@ -346931,6 +350711,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250604T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250604T1330",
+        "title": "20250604T1330",
+        "datetime": "2025-06-04T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250604T1330/20250604T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250605T0000",
       "geometry": {
         "coordinates": [
@@ -346980,6 +350814,60 @@
         57.46757096661965,
         -111.82994969465136,
         57.47547610495956
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250605T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250605T0130",
+        "title": "20250605T0130",
+        "datetime": "2025-06-05T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250605T0130/20250605T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
       ]
     },
     {
@@ -348113,6 +352001,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250610T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250610T1330",
+        "title": "20250610T1330",
+        "datetime": "2025-06-10T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250610T1330/20250610T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250611T0000",
       "geometry": {
         "coordinates": [
@@ -348381,6 +352323,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250612T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250612T0130",
+        "title": "20250612T0130",
+        "datetime": "2025-06-12T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250612T0130/20250612T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250612T0600",
       "geometry": {
         "coordinates": [
@@ -348424,6 +352420,60 @@
         "asset_keys": [
           "qf",
           "swc"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250612T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250612T1330",
+        "title": "20250612T1330",
+        "datetime": "2025-06-12T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250612T1330/20250612T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
         ]
       },
       "bbox": [
@@ -348484,6 +352534,60 @@
         57.46757096661965,
         -111.82994969465136,
         57.47547610495956
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250613T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250613T0130",
+        "title": "20250613T0130",
+        "datetime": "2025-06-13T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250613T0130/20250613T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
       ]
     },
     {
@@ -348645,6 +352749,60 @@
         57.46757096661965,
         -111.82994969465136,
         57.47547610495956
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250614T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250614T0130",
+        "title": "20250614T0130",
+        "datetime": "2025-06-14T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250614T0130/20250614T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
       ]
     },
     {
@@ -349133,6 +353291,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250616T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250616T1330",
+        "title": "20250616T1330",
+        "datetime": "2025-06-16T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250616T1330/20250616T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250617T0000",
       "geometry": {
         "coordinates": [
@@ -349401,6 +353613,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250618T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250618T0130",
+        "title": "20250618T0130",
+        "datetime": "2025-06-18T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250618T0130/20250618T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250618T0600",
       "geometry": {
         "coordinates": [
@@ -349562,6 +353828,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250619T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250619T0130",
+        "title": "20250619T0130",
+        "datetime": "2025-06-19T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250619T0130/20250619T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250619T0600",
       "geometry": {
         "coordinates": [
@@ -349605,6 +353925,60 @@
         "asset_keys": [
           "qf",
           "swc"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250619T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250619T1330",
+        "title": "20250619T1330",
+        "datetime": "2025-06-19T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250619T1330/20250619T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
         ]
       },
       "bbox": [
@@ -350052,6 +354426,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250621T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250621T1330",
+        "title": "20250621T1330",
+        "datetime": "2025-06-21T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250621T1330/20250621T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250622T0000",
       "geometry": {
         "coordinates": [
@@ -350428,6 +354856,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250623T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250623T1330",
+        "title": "20250623T1330",
+        "datetime": "2025-06-23T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250623T1330/20250623T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250624T0000",
       "geometry": {
         "coordinates": [
@@ -350481,6 +354963,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250624T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250624T0130",
+        "title": "20250624T0130",
+        "datetime": "2025-06-24T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250624T0130/20250624T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250624T0600",
       "geometry": {
         "coordinates": [
@@ -350524,6 +355060,60 @@
         "asset_keys": [
           "qf",
           "swc"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250624T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250624T1330",
+        "title": "20250624T1330",
+        "datetime": "2025-06-24T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250624T1330/20250624T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
         ]
       },
       "bbox": [
@@ -350584,6 +355174,60 @@
         57.46757096661965,
         -111.82994969465136,
         57.47547610495956
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250625T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250625T0130",
+        "title": "20250625T0130",
+        "datetime": "2025-06-25T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250625T0130/20250625T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
       ]
     },
     {
@@ -350749,6 +355393,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250626T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250626T0130",
+        "title": "20250626T0130",
+        "datetime": "2025-06-26T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250626T0130/20250626T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250626T0600",
       "geometry": {
         "coordinates": [
@@ -350910,6 +355608,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250627T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250627T0130",
+        "title": "20250627T0130",
+        "datetime": "2025-06-27T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250627T0130/20250627T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250627T0600",
       "geometry": {
         "coordinates": [
@@ -350953,6 +355705,60 @@
         "asset_keys": [
           "qf",
           "swc"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250627T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250627T1330",
+        "title": "20250627T1330",
+        "datetime": "2025-06-27T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250627T1330/20250627T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
         ]
       },
       "bbox": [
@@ -351017,6 +355823,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250628T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250628T0130",
+        "title": "20250628T0130",
+        "datetime": "2025-06-28T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250628T0130/20250628T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250628T0600",
       "geometry": {
         "coordinates": [
@@ -351060,6 +355920,60 @@
         "asset_keys": [
           "qf",
           "swc"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250628T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250628T1330",
+        "title": "20250628T1330",
+        "datetime": "2025-06-28T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250628T1330/20250628T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
         ]
       },
       "bbox": [
@@ -351124,6 +356038,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250629T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250629T0130",
+        "title": "20250629T0130",
+        "datetime": "2025-06-29T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250629T0130/20250629T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250629T0600",
       "geometry": {
         "coordinates": [
@@ -351167,6 +356135,60 @@
         "asset_keys": [
           "qf",
           "swc"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250629T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250629T1330",
+        "title": "20250629T1330",
+        "datetime": "2025-06-29T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250629T1330/20250629T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
         ]
       },
       "bbox": [
@@ -351227,6 +356249,60 @@
         57.46757096661965,
         -111.82994969465136,
         57.47547610495956
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250630T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250630T0130",
+        "title": "20250630T0130",
+        "datetime": "2025-06-30T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250630T0130/20250630T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
       ]
     },
     {
@@ -351392,6 +356468,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250701T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250701T0130",
+        "title": "20250701T0130",
+        "datetime": "2025-07-01T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250701T0130/20250701T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250701T0600",
       "geometry": {
         "coordinates": [
@@ -351435,6 +356565,60 @@
         "asset_keys": [
           "qf",
           "swc"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250701T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250701T1330",
+        "title": "20250701T1330",
+        "datetime": "2025-07-01T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250701T1330/20250701T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
         ]
       },
       "bbox": [
@@ -351607,6 +356791,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250702T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250702T1330",
+        "title": "20250702T1330",
+        "datetime": "2025-07-02T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250702T1330/20250702T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250703T0000",
       "geometry": {
         "coordinates": [
@@ -351660,6 +356898,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250703T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250703T0130",
+        "title": "20250703T0130",
+        "datetime": "2025-07-03T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250703T0130/20250703T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250703T0600",
       "geometry": {
         "coordinates": [
@@ -351703,6 +356995,60 @@
         "asset_keys": [
           "qf",
           "swc"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250703T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250703T1330",
+        "title": "20250703T1330",
+        "datetime": "2025-07-03T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250703T1330/20250703T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
         ]
       },
       "bbox": [
@@ -351875,6 +357221,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250704T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250704T1330",
+        "title": "20250704T1330",
+        "datetime": "2025-07-04T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250704T1330/20250704T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250705T0000",
       "geometry": {
         "coordinates": [
@@ -351928,6 +357328,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250705T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250705T0130",
+        "title": "20250705T0130",
+        "datetime": "2025-07-05T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250705T0130/20250705T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250705T0600",
       "geometry": {
         "coordinates": [
@@ -351971,6 +357425,60 @@
         "asset_keys": [
           "qf",
           "swc"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250705T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250705T1330",
+        "title": "20250705T1330",
+        "datetime": "2025-07-05T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250705T1330/20250705T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
         ]
       },
       "bbox": [
@@ -352143,6 +357651,60 @@
     },
     {
       "type": "Feature",
+      "id": "20250706T1330",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250706T1330",
+        "title": "20250706T1330",
+        "datetime": "2025-07-06T13:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250706T1330/20250706T1330.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
+      ]
+    },
+    {
+      "type": "Feature",
       "id": "20250707T0000",
       "geometry": {
         "coordinates": [
@@ -352192,6 +357754,60 @@
         57.46757096661965,
         -111.82994969465136,
         57.47547610495956
+      ]
+    },
+    {
+      "type": "Feature",
+      "id": "20250707T0130",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.105777777784915
+            ],
+            [
+              -111.66488888890285,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.59111111111831
+            ],
+            [
+              -112.23911111112514,
+              57.105777777784915
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "id": "20250707T0130",
+        "title": "20250707T0130",
+        "datetime": "2025-07-07T01:30:00Z",
+        "start_datetime": null,
+        "end_datetime": null,
+        "collection": "lst",
+        "collection_title": "Land Surface Temperature",
+        "catalog_id": "open-canada",
+        "catalog_title": "Open Canada",
+        "stac_href": "https://www.planet.com/data/stac/open-canada/ft-mckay/lst/20250707T0130/20250707T0130.json",
+        "asset_count": 2,
+        "asset_keys": [
+          "lst",
+          "qf"
+        ]
+      },
+      "bbox": [
+        -112.23911111112514,
+        57.105777777784915,
+        -111.66488888890285,
+        57.59111111111831
       ]
     },
     {
